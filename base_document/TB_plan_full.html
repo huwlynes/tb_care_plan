@@ -13,6 +13,12 @@ button { color: red; }
 
 </head><body>
 
+<form>
+<select multiple="multiple">
+	<option value="amikacim">amikacim</option>
+</select>
+<button type="submit">Submit</button>
+</form>
 
 
 
@@ -21,17 +27,16 @@ button { color: red; }
 
 
 
-
-
-<button>Click Me!</button>
 <!-- JavaScript for interactivity. -->
 <script>
-// Get a handle on the first button element in the document.
-var button = document.querySelector( "button" );
-// If a user clicks on it, say hello!
-button.addEventListener( "click", function( ev ) {
-alert( "Hello" );
-}, false);
+$('.main').hide();
+$('.monograph').hide();
+$('form').submit( function(e){  
+	$('form option:selected').each(function() { 
+		$($(this).val()).show();
+	});
+		
+} );
 </script>
 
 
