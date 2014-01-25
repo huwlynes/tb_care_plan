@@ -14,9 +14,7 @@ button { color: red; }
 </head><body>
 
 <form>
-<select multiple="multiple">
-	<option value="amikacin">amikacin</option>
-</select>
+<select multiple="multiple"></select>
 <button type="submit">Submit</button>
 </form>
 
@@ -5826,8 +5824,13 @@ $('form').submit( function(e){
         $('form option:selected').each(function() {
 	$('#' + $(this).val()).show();
         });
+
 } );
 
+$('.monograph').each(function () {
+    var id = $(this).attr('id');
+    $('select').append($('<option></option>').attr('value', id).text(id));
+});
 </script>
 
 
