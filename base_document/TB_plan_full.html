@@ -5796,6 +5796,7 @@ $('.main').hide();
 $('.monograph').hide();
 var workingid = $('#amikacin');
 $('form').submit( function(e){
+    $('.monograph').hide();
 	e.stopPropagation();
 	e.preventDefault();
         $('form option:selected').each(function() {
