@@ -15,29 +15,13 @@ button { color: red; }
 
 <form>
 <select multiple="multiple">
-	<option value="amikacim">amikacim</option>
+	<option value="amikacin">amikacin</option>
 </select>
 <button type="submit">Submit</button>
 </form>
 
 
 
-
-
-
-
-
-<!-- JavaScript for interactivity. -->
-<script>
-$('.main').hide();
-$('.monograph').hide();
-$('form').submit( function(e){  
-	$('form option:selected').each(function() { 
-		$($(this).val()).show();
-	});
-		
-} );
-</script>
 
 
 
@@ -330,7 +314,7 @@ individual drug monographs.</p>
 
 <div>
 
-<div id="amikacin">
+<div class="monograph" id="amikacin">
 <table border="1" cellspacing="0" cellpadding="0">
  <tr>
   <td width="619" valign="top">
@@ -5831,6 +5815,20 @@ Available from: <a href="http://labeling.pfizer.com/showlabeling.aspx?id=473" ta
 </div>
 
 </div>
+<!-- JavaScript for interactivity. -->
+<script>
+$('.main').hide();
+$('.monograph').hide();
+var workingid = $('#amikacin');
+$('form').submit( function(e){
+	e.stopPropagation();
+	e.preventDefault();
+        $('form option:selected').each(function() {
+	$('#' + $(this).val()).show();
+        });
+} );
+
+</script>
 
 
 </body></html>
