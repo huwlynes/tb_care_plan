@@ -2364,7 +2364,6 @@ from:
 </div>
 <!-- JavaScript for interactivity. -->
 <script>
-$('.main').hide();
 $('.monograph').hide();
 var workingid = $('#amikacin');
 $('form').submit( function(e){
@@ -2381,6 +2380,7 @@ $('.monograph').each(function () {
     var id = $(this).attr('id');
     $('select').append($('<option></option>').attr('value', id).text(id));
 });
+$('select').attr('size', $('.monograph').length);
 </script>
 
 </body></html>
