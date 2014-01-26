@@ -1,0 +1,1824 @@
+﻿
+Introduction
+This guideline is to aid monitoring for adverse effects during the treatment of MDR-TB.  It is not a treatment guide or a guide for monitoring the progress of treatment.  For treatment guidance please refer to the WHO treatment guideline and the BTS MDR-TB Clinical Advisory Service.  Treatment of MDR-TB should always be undertaken in consultation with local experts as well as published guidance.
+Due to the complexity of treatment regimens and comorbidity associated with the disease itself, more frequent monitoring may be needed in individual patients and this should be guided by the clinician in charge of the patient’s care.  Our recommendations are predominantly based on consensus opinion from TB physicians, pharmacists, nursing staff and specialties including audiology and ophthalmology and drug advisory organisations including the FDA and BNF.
+We also appreciate that most patients with MDR-TB are established on treatment whilst an in-patient and may require more frequent blood test monitoring during the initial phase of treatment.  We have produced this document to provide advice on the frequency of monitoring which should occur, at minimum, in all patients on MDR-TB treatment.
+All recommendations below should cover any combination of drugs.  Where additional monitoring is required with a specific drug we have noted this and provided a source for further information in the form of individual drug monographs.
+Therapeutic drug level monitoring advice is available in individual drug monographs.
+Links
+British Thoracic Society MDR-TB Clinical Advisory Service:
+http://www.brit-thoracic.org.uk/delivery-of-respiratory-care/tuberculosis/mdrtb-clinical-advice-service.aspx
+WHO guidance on the treatment of MDR-TB:
+http://whqlibdoc.who.int/publications/2011/9789241501583_eng.pdf
+BASELINE TESTS
+Blood Tests
+Renal function and electrolytes (U&Es), liver function tests (LFTs), bone profile, magnesium (Mg), thyroid function tests (TFTs), uric acid
+
+Full blood count (FBC), clotting
+
+HIV, Hepatitis B, Hepatitis C
+
+
+Other Tests
+ECG
+
+Visual Acuity and Colour Vision
+
+Audiometry
+
+Nutritional Assessment
+ONGOING MONITORING RECOMMENDATIONS
+FBC
+Monthly until 6 months. Consider reducing frequency after 6 months if stable and no changes to medication. If using Linezolid please see individual drug monograph for FBC frequency recommendations.
+Clotting
+Baseline and repeat if indicated, particularly if deranged LFTs.
+U&Es
+	
+All MDR patients should be on an aminoglycoside therefore:
+Month 1 = twice weekly
+Month 2 = weekly
+Month 3 onwards: fortnightly
+Consider reducing to monthly after cessation of treatment with aminoglycoside, if renal function remains stable.
+Consider increasing frequency of monitoring if evidence of renal impairment.
+LFTs
+Weekly for the first month or until regimen is established, whichever is longest.  Then to continue monthly throughout treatment.  Consider reducing frequency after 6 months if LFTs stable and no pre-existing liver disease or changes to medication.
+Calcium
+Monthly until 6 months. Consider reducing frequency after 6 months if stable and no changes to medication.
+TFTs
+Monthly if patient on prothionamide and PAS combination therapy.  If on only prothionamide or PAS, check TFTs 3 monthly.
+Magnesium
+Monthly until 6 months. Consider reducing frequency after 6 months if stable and no changes to medication.
+Uric Acid
+Baseline only unless evidence of gout or baseline levels high.
+ECG 
+(For patients prescribed macrolides, fluoroquinolones, clofazamine or bedaquiline)
+Baseline, at 2 weeks, then 3 monthly throughout treatment.
+Repeat if symptomatic or after the addition of any new medication which is known to prolong QT.
+Be particularly cautious when prescribing more than one drug which might prolong QTc such as ondansetron, anti-depressants, anti-psychotics etc.
+Refer to EP Cardiologist if QTc outside normal range.
+Visual acuity & Colour Vision
+6 monthly or more frequently if symptoms noted
+Audiometry
+Monthly until completion of treatment and a final test 2 months after treatment completion.
+
+
+
+
+
+DRUG MONOGRAPHS
+	
+AMIKACIN
+
+Please note amikacin is not licensed for the treatment of tuberculosis in the UK.
+
+DOSAGE
+For intramuscular or intravenous administration only.  (Intravenous route is preferred, as the volume of doses required would necessitate two IM injections each day.)
+
+Amikacin is usually given once daily (although for pragmatic reasons there is experience giving it 5 days per week) for an initial period (usually at least two months).  In clinical practice the frequency is usually then reduced to three times weekly.
+
+Single-Dose Regimen (usually as an intravenous infusion, diluted in 100mL sodium chloride 0.9% or glucose 5% and infused over 30 to 60 minutes):
+Adults: 15mg/kg daily (usual maximum 1g daily, but can be increased if necessary in large muscular adults).  After initial period (usually at least two months): 15mg/kg three times per week.
+Age >59 years: 10mg/kg daily (maximum 750mg daily).  After initial period: 10mg/kg three times per week.
+
+Renal failure: 12-15mg/kg TWO to THREE times a week.  Please discuss with a pharmacist. 
+
+Obesity: It has been suggested that markedly obese patients should have an adjusted dose using ideal body weight plus 40% of the excess weight in markedly obese patients. The adjusted dose is due to the decreased distribution of extracellular fluids in adipose tissues.
+Ideal body weight (men): 50 kg plus 2.3 kg/inch over 5 ft.
+Ideal body weight (women): 45 kg plus 2.3 kg/inch over 5 ft.
+Adjust dose and/or frequency according to serum amikacin concentration (see below).
+
+Children: 15-30mg/kg daily (usual maximum 1g daily). After initial period: 15-30mg/kg three times per week.
+Adjust dose and/or frequency according to serum amikacin concentration (see below).
+
+PREPARATIONS
+Parenteral: 100mg/2mL, 500mg/2mL injection.
+
+DRUG LEVEL MONITORING
+Indications for monitoring:
+Ensure therapeutic dose.
+Ensures that accumulation is not occurring in renal impairment.
+Target Level:	<5mg/L (trough)
+25 – 35mg/L (peak)
+Timing of sample: 	
+Pre dose.
+Take a level 90 – 120 minutes and 6 hours after the infusion ends. Then plot on semi-logarithmic paper and extrapolate back to time = 0.
+Alternatively, taking a level 60mins after infusion ends may be appropriate as a measure of the peak level, but may underestimate the true peak level.
+Frequency of Levels: 
+Peak serum level in first week, repeat if poor response. 
+Trough serum levels weekly for 4 weeks.  This can reduce to fortnightly when stable.
+Suggested Actions:	
+Trough level: High – extend interval.
+Peak level: High – reduce dose; low – increase dose.
+
+ADVERSE EFFECTS
+COMMON:
+Nephrotoxicity: Accumulation if renal impairment.
+Ototoxicity: Irreversible vestibulo-cochlear nerve damage. 
+SERIOUS:
+Endocrine: Hypocalcaemia, hypomagnesaemia, and hypokalaemia.
+Neurological: Neuromuscular blockade and respiratory paralysis (more common in neuromuscular disease; usually dose-related and self-limiting).
+Audiological: Ototoxicity - auditory > vestibular (higher with prolonged use and older age)
+Renal: Nephrotoxicity (higher with prolonged use).
+
+ADVERSE EFFECTS: MONITORING
+Renal, auditory and vestibular monitoring is essential
+Renal function: Month 1 = twice weekly.
+Month 2 = weekly.
+Month 3 to end of treatment = fortnightly.
+Consider reducing to monthly after cessation of treatment with aminoglycoside, if renal function remains stable.
+Consider increasing frequency of monitoring if evidence of renal impairment.
+
+Loss of hearing usually occurs first and is detected by regular audiometric testing. Vertigo, loss of balance and auditory disturbances are also signs of ototoxicity. Ototoxicity on audiogram is defined as a 20 dB loss from baseline at any one test frequency or a 10 dB loss at any two adjacent test frequencies.
+
+We recommend that patients have baseline audiometry and then monthly reviews until treatment with aminoglycoside ceases.  A final audiometry review should be offered 2 months after the final dose.
+
+Routine tests as per generic MDR-TB drug monitoring guidelines. (hyperlink)
+
+INTERACTIONS
+Increased risk of ototoxicity if given with: loop diuretics
+Increased risk of hypocalcaemia with bisphosphonates.
+Increased risk of nephrotoxicity if given with: capreomycin, cephalosporins, ciclosporin, colistimethate sodium, tacrolimus. 
+NB: There is no clinical benefit in prescribing amikacin AND capreomycin or kanamycin or streptomycin.
+
+This information is not inclusive of all drug interactions. Please discuss with a pharmacist. 
+
+CONTRA-INDICATIONS & CAUTIONS
+Contraindications: 
+Hypersensitivity: To amikacin or other aminoglycosides.
+Myasthenia Gravis: As amikacin may impair neuromuscular transmission.
+Pregnancy: Risk of vestibular or auditory nerve damage to foetus if used in second or third trimester.
+
+Cautions:
+Obese: Use ideal weight for height to calculate dose and monitor serum amikacin levels closely.
+Elderly: Nephrotoxicity and ototoxicity common in the elderly; monitor and reduce dose if necessary.
+Renal Disease: Use with caution. Reduce the frequency of dosing and monitor serum concentrations.
+
+LABORATORY INFORMATION
+Please find up to date information at www.assayfinder.com regarding individual providers of drug level monitoring tests. Click on the provider for contact details.  Turnaround time varies depending on the test and whether it is run locally or sent to an external lab.  By contacting laboratories in advance, turnaround time can significantly be reduced.
+Sample Type: Serum. 
+Volume Required: 1-2mL (min 0.1mL).
+Sample Container: Plain glass or plastic (non SST).
+Container Type: Any.
+Availability: NS.
+Turnaround Time: Telephoned same day if received 9am-3pm Mon-Fri. Written confirmation report will be sent by 1st Class post.
+
+BEDAQUILINE
+
+There are limited data available on bedaquiline. Clinicians are advised to monitor patients closely to ensure the safe and effective use of this drug.
+
+Patients should be advised that the following serious side effects can occur with bedaquiline: death, heart rhythm abnormalities, and/or hepatitis. In addition, patients should also be advised about other potential side effects: nausea, joint pain, headache, increased blood amylase, haemoptysis, chest pain, anorexia, and/or rash. Additional testing may be needed to monitor or reduce the likelihood of adverse effects.
+
+DOSAGE
+Adults (aged 18 to 64 years): 400 mg daily for the first 2 weeks, followed by 200 mg three times per week for the remaining 22 weeks. (Maximum duration = 6 months).
+Children: not currently recommended in people aged less than 18 years.
+
+Bedaquiline should be taken with food.
+
+PREPARATIONS
+Oral: 100mg tablets.
+
+DRUG LEVEL MONITORING
+Drug levels need not be routinely measured.
+
+ADVERSE EFFECTS
+Report all suspected adverse drug reactions to the Medicines and Healthcare products Regulatory Agency (MHRA) through the Yellow Card Scheme.
+
+COMMON:
+Arthralgia 
+Chest pain
+Gastrointestinal: Nausea.
+Neurological: Headache.
+Respiratory: Haemoptysis
+
+SERIOUS:
+Cardiovascular: QTc prolongation (more common in hypokalaemia, proarrhythmic conditions, in combination with other drugs that prolong the QT interval such as clofazimine, fluoroquinolones or macrolides).
+Hepatic: Increases in LFTs.
+
+ADVERSE EFFECTS: MONITORING
+ECG: Baseline, 2 weeks then every 3 months and after the addition of any new medication that is known to prolong QT. 
+Discontinue bedaquiline and all other QT prolonging drugs if the patient develops: 
+Clinically significant ventricular arrhythmia 
+A QTc interval of > 500 ms (confirmed by repeat ECG) 
+Monitor ECGs frequently to confirm that the QTc interval has returned to baseline. 
+If syncope occurs, obtain an ECG to detect QT prolongation.
+LFTs: at baseline, and repeated monthly.
+U&Es, calcium & magnesium: at baseline and repeated if QT prolongation is detected. 
+
+Routine tests as per generic MDR-TB treatment monitoring guidelines. (hyperlink)
+
+INTERACTIONS
+Anti-arrhythmics: Risk of prolonged QT interval (e.g. amiodarone, sotalol, procainamide, dysopyramide and quinidine).
+Antiretrovirals: Limited data.
+Antidepressants, Tricylic: Risk of prolonged QT interval.
+Antipsychotics (thioridazine, haloperidol, chlorpromazine, trifluoperazine, percycline, prochlorperazine, fluphenazine, sertindole, and pimozide): Risk of prolonged QT interval.
+Azole antifungals (e.g. ketoconazole, voriconazole, itraconazole, fluconazole): Increased exposure to bedaquiline. Avoid co-administration for more than 14 days.
+Carbamazepine: Accelerated metabolism of bedaquiline resulting in reduced effect. Avoid co-administration.
+Chloroquine & hydroxychloroquine: Risk of prolonged QT interval.
+Clofazimine: Risk of prolonged QT interval.
+CYP3A4 inducers: Accelerated metabolism of bedaquiline resulting in reduced effect. Avoid co-administration.
+CYP3A4 inhibitors: Reduced metabolism resulting in increased serum concentrations of bedaquiline. Avoid prolonged co-administration for more than 14 days.
+Fluoroquinolones: Risk of prolonged QT interval.
+Macrolides: Risk of prolonged QT interval. Avoid co-administration for more than 14 days.
+Phenytoin: accelerated metabolism of bedaquiline resulting in reduced effect. Avoid co-administration.
+Rifampicin, Rifabutin & Rifapentine: accelerated metabolism of bedaquiline resulting in reduced effect. Avoid co-administration.
+Statins: Avoid co-administration.
+
+This information is not inclusive of all drug interactions. Please refer to the SPC or BNF for further information, or discuss with a pharmacist.
+
+CONTRA-INDICATIONS & CAUTIONS
+Contraindications: 
+Pregnancy & breast feeding.  Men should agree to use a highly effective method of birth control and not to donate sperm during treatment and for 3 months after receiving the last dose of TB treatment. 
+There are no adequate or well-controlled studies in pregnant women.  It is not known whether bedaquiline or its metabolites are excreted in human milk.
+Hypersensitivity: To bedaquiline.
+Children aged <18 years: The safety and effectiveness has not been established in children.
+
+Cautions:
+Elderly patients ≥ 65 years: Lack of data in patients aged 65 and over to determine whether they respond differently from younger patients
+Extrapulmonary TB (e.g. meningitis):  There are no data on the use of bedaquiline in extra pulmonary TB and consequently it is not currently recommended for the treatment of this.
+Cardiovascular: Due to the risk of QT prolongation with bedaquiline, ECGs should be monitored closely in patients:
+Taking other QT prolonging drugs (e.g  fluoroquinolones, macrolides, clofazimine).
+with a history of Torsade de Pointes, congenital long QT syndrome, hypothyroidism and bradyarrhythmias, or uncompensated heart failure .
+With serum calcium, magnesium, or potassium levels below the lower limits of normal.
+HIV/TB co-infection: limited or no information on the use of bedaquiline.
+Alcohol or substance use: Limited or no information on the use of bedaquiline.
+Liver disease: Lack of data in severe liver disease. No dose adjustment required in mild to moderate hepatic impairment.
+Renal disease: Use with caution in patients with severe renal impairment or end stage renal disease requiring hemodialysis or peritoneal dialysis.
+
+LABORATORY INFORMATION
+Please find up to date information at www.assayfinder.com regarding individual providers of drug level monitoring tests. Click on the provider for contact details.  Turnaround time is usually a few days to a week but this can be reduced by calling ahead and informing the laboratory in advance.
+
+CAPREOMYCIN
+
+DOSAGE
+Capreomycin is usually given once daily for an initial period (usually at least two months), then the frequency may be reduced to three times weekly.  
+
+Licensed for intramuscular administration only. There is experience of using capreomycin as an intravenous infusion.  (Diluted in 100 mL of 0.9% Sodium Chloride or glucose 5% and administered over 30 to 60 minutes.)
+Adults: 15mg/kg daily (usual maximum 1g daily, but can be increased if necessary in large muscular adults).  After initial period: 15mg/kg three times per week.
+Age >59 years: 10mg/kg daily (maximum 750mg daily). After initial period: 15mg/kg three times per week.
+
+Renal failure: 12-15mg/kg TWO to THREE times a week.  Please discuss with a pharmacist.
+
+Obesity: Use ideal body weight plus 40% of the excess weight in markedly obese patients. The adjusted dose is due to the decreased distribution of extracellular fluids in adipose tissues.
+Ideal body weight (men): 50 kg plus 2.3 kg/inch over 5 ft.
+Ideal body weight (women): 45 kg plus 2.3 kg/inch over 5 ft.
+
+Children: 15-30mg/kg daily (usual maximum 1g daily). After initial period: 15-30mg/kg three times per week.
+
+PREPARATIONS
+Parenteral: 1g powder for injection.
+
+DRUG LEVEL MONITORING
+Drug levels cannot currently be performed for capreomycin in the UK.
+
+ADVERSE EFFECTS
+COMMON:
+Nephrotoxicity: Higher risk with prolonged use.
+Ototoxicity: Auditory > vestibular (Maybe lower risk than with amikacin; higher risk with prolonged use and older age).
+Drug-induced eosinophilia: Usually subsides with intermittent dosing.
+SERIOUS:
+Dermatological: Induration and local pain with IM injection.
+Endocrine: Hypocalcaemia, hypomagnesaemia, and hypokalaemia.
+Hepatic: Liver function test abnormalities when used with other anti-TB drugs.
+Neurological: Neuromuscular blockade and respiratory paralysis (more common in neuromuscular disease; usually with rapid IV infusion).
+Audiological: Ototoxicity - auditory > vestibular (Maybe less than with amikacin; higher with prolonged use and older age).
+Renal: Nephrotoxicity (higher with prolonged use).
+
+ADVERSE EFFECTS: MONITORING
+Renal, auditory and vestibular monitoring is essential.
+
+Renal function: Month 1 = twice weekly.
+Month 2 = weekly.
+Month 3 to end of treatment = fortnightly.
+Consider reducing to monthly after cessation of treatment with aminoglycoside, if renal function remains stable.
+Consider increasing frequency of monitoring if evidence of renal impairment.
+
+Loss of hearing usually occurs first and is detected by regular audiometric testing. Vertigo, loss of balance and auditory disturbances are also signs of ototoxicity.
+Ototoxicity on audiogram is defined as a 20 dB loss from baseline at any one test frequency or a 10 dB loss at any two adjacent test frequencies.
+
+We recommend that patients have baseline audiometry and then monthly reviews until treatment with aminoglycoside ceases.  A final audiometry review should be offered 2 months after the final dose.
+
+Routine tests as per generic MDR-TB drug monitoring guidelines. (hyperlink)
+
+INTERACTIONS
+Increased risk of nephrotoxicity if given with: aminoglycosides, colistimethate sodium.
+Increased risk of ototoxicity if given with: aminoglycosides.
+
+This information is not inclusive of all drug interactions. Please discuss with a pharmacist. 
+
+CONTRA-INDICATIONS & CAUTIONS
+Contraindications: 
+Hypersensitivity: To capreomycin.
+Pregnancy: Risk of vestibular or auditory nerve damage to infant if used in second or third trimester.
+
+Cautions:
+Renal Disease: Use with caution. Reduce the frequency of dosing and monitor serum concentrations.
+Obese: Use ideal weight for height to calculate dose and monitor serum-aminoglycoside levels closely.
+Elderly: Nephrotoxicity and ototoxicity common in the elderly; monitor and reduce dose if necessary.
+
+LABORATORY INFORMATION
+Please find up to date information at www.assayfinder.com regarding individual providers of drug level monitoring tests. Click on the provider to discover contact details.  Turnaround time varies depending on the test and whether it is run locally or sent to an external lab.  By contacting laboratories in advance, turnaround time can significantly be reduced.
+Not currently available in the UK.
+
+
+
+CLARITHROMYCIN
+
+Please note clarithromycin is not licensed for the treatment of tuberculosis in the UK.
+Clarithromycin is not usually recommended for the treatment of MDRTB. When it is used, it should be counted as half a drug in a treatment regimen.
+
+DOSAGE
+For all patients over 12 years old:
+By intravenous infusion:
+500mg twice a day given through a large proximal vein.
+By mouth:
+500mg twice a day.
+
+Paediatric doses:  [NOTE: Limited data on evidence for dosing in TB.  These doses are based on clarithromycin dosing for respiratory tract infections in the latest BNF for children 2012-2013.]
+By intravenous infusion into large proximal vein 
+Child 1 month–12 years: 7.5 mg/kg twice a day
+Child 12–18 years: 500 mg twice a day
+
+By mouth:
+Child 1 month – 12 years:
+body-weight under 8 kg:  7.5 mg/kg twice a day
+8–11 kg: 62.5 mg twice a day
+12–19 kg, 125 mg twice a day
+20–29 kg, 187.5 mg twice a day
+30–40 kg, 250 mg twice a day
+Child 12 – 18 years: 500mg twice a day
+
+PREPARATIONS
+Oral:	250mg, 500mg tablets.
+	125mg/5mL, 250mg/5mL suspension.
+Parenteral: 500mg powder for solution for injection
+
+DRUG LEVEL MONITORING
+Drug levels need not be routinely measured.
+
+ADVERSE EFFECTS
+COMMON:
+Gastrointestinal: Abdominal pain (2%), diarrhoea (3-6%), nausea (3%), vomiting (6%) and taste perversion (3-19%).
+Neurological: Headache (2%).
+SERIOUS:
+Cardiovascular: QTc prolongation (very rare)
+Dermatological (rare): Anaphylaxis, leukocytoclastic vasculitis, toxic epidermal necrolysis, and Stevens-Johnson syndrome.
+Hepatic: Hepatomegaly, hepatic dysfunction & hepatic failure (rare).
+Immunological: Anaphylaxis.
+Infective: Clostridium difficile-associated diarrhoea and colitis.
+
+ADVERSE EFFECTS: MONITORING
+ECG: Baseline, 2 weeks then every 3 months and after the addition of any new medication that is known to prolong QT. 
+
+Routine tests as per generic MDR-TB drug monitoring guidelines. (hyperlink)
+
+INTERACTIONS
+Use with caution with antivirals:
+Increased plasma concentrations of: atazanavir, etravirine, nevirapine, telaprevir, tipranavir, and possibly maraviroc, rilpivirine.
+Increased clarithromycin concentrations with: atazanavir, ritonavir, telaprevir, tipranavir.
+Reduced clarithromycin concentrations with: atravirine, nevirapine.
+Increased risk of ventricular arrhythmias with saquinavir and telaprevir.
+
+Increased plasma concentrations of: 
+Antiepileptics: carbamazepine, phenytoin (monitor plasma concentrations).
+Ciclosporin (avoid clarithromycin, or monitor ciclosporin plasma concentrations).
+Coumarins e.g. warfarin (increased anticoagulant effect).
+Ivabradine (avoid use).
+Rifabutin (requires rifabutin dose reduction).
+Sirolimus (avoid clarithromycin, or monitor sirolimus plasma concentrations).
+Statins (avoid use).
+Tacrolimus (avoid clarithromycin, or monitor tacrolimus plasma concentrations).
+Theophylline (reduce theophylline dose and monitor plasma concentrations).
+Ticagrelor (avoid use).
+
+This information is not inclusive of all drug interactions. Please discuss with a pharmacist. 
+
+CONTRA-INDICATIONS & CAUTIONS
+Contraindications: 
+Hypersensitivity: To macrolides.
+Use of other drugs that may prolong the QT interval.
+Renal & liver disease:  Avoid in patients with both severe renal and liver disease.
+
+Cautions:
+Pregnancy & Breast-feeding.
+Renal Disease: Use with caution. Reduce the dose.
+Myasthenia Gravis: Macrolides may aggravate myasthenia gravis.
+Cardiovascular Disease: Due to the risk for QT prolongation, clarithromycin should be used with caution in patients with coronary artery disease, severe cardiac insufficiency, hypomagnesaemia, bradycardia (<50 bpm), or when co-administered with other medicinal products associated with QT prolongation.
+
+LABORATORY INFORMATION
+Please find up to date information at www.assayfinder.com regarding individual providers of drug level monitoring tests. Click on the provider to discover contact details.  Turnaround time varies depending on the test and whether it is run locally or sent to an external lab.  By contacting laboratories in advance, turnaround time can significantly be reduced.
+
+
+CLOFAZIMINE
+
+Please note clofazimine is not licensed for the treatment of tuberculosis in the UK.
+Clofazimine is not usually recommended for the treatment of MDRTB. When it is used, it should be counted as half a drug in a treatment regimen.
+
+DOSAGE
+Adults: Recommend 100mg to 200mg once daily (oral). 
+Doses of 200mg daily for two months, then 100mg daily have been used. (Doses up to 300mg once daily have been used in leprosy).  
+Children: Limited data, but doses of 1mg/kg/day have been used in mycobacterial infections.
+
+Clofazimine should be taken with meals or with milk to maximise absorption and reduce gastrointestinal adverse effects.
+
+PREPARATIONS
+Oral: 100mg capsules (unlicensed medicine).
+
+DRUG LEVEL MONITORING
+Drug levels need not be routinely measured.
+
+ADVERSE EFFECTS
+COMMON:
+Dermatological:  Pink to brownish-black skin discoloration (resembling sun-tanning) within 1-4wks in 75-100% of patients. It gradually disappears within 6-12 months after stopping treatment. It is important to advise patients of this prior to commencing treatment.
+Ichthyosis & dry skin (8-38%), pruritis (5%), rash (1-5%), photosensitivity reactions (wear protective clothing and sunscreens).
+Gastrointestinal: (up to 50% of patients): Abdominal pain, nausea, vomiting, diarrhoea, weight loss.
+SERIOUS:
+Gastrointestinal: (<1%): bowel obstruction, GI haemorrhage.
+Ophthalmic: Conjunctival pigmentation (38-57%), subjective dimness of vision (12.3%), and dry eyes, burning, and other ocular irritation (24.6%).
+Psychiatric: Reactive depression due to skin discolouration.
+Other: Splenic infarction, discolouration of body fluids.
+
+ADVERSE EFFECTS: MONITORING
+Risk of QT prolongation and ventricular tachyarrhythmias (thought to be torsades de pointes) has been highlighted in case reports.
+ECG: Baseline, 2 weeks then every 3 months and after the addition of any new medication that is known to prolong QT.
+
+Routine tests as per generic MDR-TB drug monitoring guidelines. (hyperlink)
+ 
+INTERACTONS
+May reduce the absorption rate of rifampicin, but is unlikely to be clinically significant.
+Isoniazid may increase plasma and urinary concentrations of clofazimine and decrease skin concentrations.
+Increased risk of prolonged QTc with other drugs that prolong QTc including fluoroquinolones and bedquiline.
+
+This information is not inclusive of all drug interactions. Please discuss with a pharmacist. 
+
+CONTRA-INDICATIONS & CAUTIONS
+Contraindications: 
+Hypersensitivity: To clofazimine.
+Hypersensitivity: To peanuts or soya, as clofazimine capsules contain soybean oil.
+
+Cautions:
+Pregnancy & Breast-feeding
+Renal Disease: Use with caution. Dose reductions are not necessary.
+Liver Disease: Use with caution. Metabolised by the liver, therefore may require dose adjustment in severe liver disease.
+
+LABORATORY INFORMATION
+Please find up to date information at www.assayfinder.com regarding individual providers of drug level monitoring tests. Click on the provider to discover contact details.  Turnaround time varies depending on the test and whether it is run locally or sent to an external lab.  By contacting laboratories in advance, turnaround time can significantly be reduced.
+Not currently available in the UK.
+
+
+
+
+CO-AMOXICLAV
+
+Please note co-amoxiclav is not licensed for the treatment of tuberculosis in the UK.
+Co-amoxiclav is not usually recommended for the treatment of MDRTB. When it is used, it should be counted as half a drug in a treatment regimen.  It is sometimes recommended in combination with meropenem for its clavulanate content. Co-amoxicalv inhibits the beta-lactamase which destroys meropenem activity. Clavulanate alone is not available for use in the UK.
+
+DOSAGE
+[NOTE: Limited data on evidence for dosing in TB.  The adult doses are based on those used in the treatment of respiratory tract infections in the BNF no 65, March 2013.  The paediatric doses are similarly based on dosing for respiratory tract infections in the latest BNF for children 2012-13].
+For all patients over 12 years old:
+By intravenous infusion over 3-4 minutes:
+Patients over 12 years old: 	1.2g 8 hourly 
+
+Neonates:			30mg/kg every 12 hours
+Children 1 -3 months		30mg/kg every 12 hours
+3 months – 18 years		30mg/kg every 8 hours
+
+By mouth:
+Patients over 12 years old:	625mg, 8 hourly 
+
+Neonates:			0.25 mL/kg of 125/31 suspension every 8 hours
+Children 1 month- 1 year :	0.25 mL/kg of125/31 suspension every 8 hours
+Dose doubled in severe infection
+1–6 years:			5 mL of125/31 suspension every 8 hours 						or 0.25 mL/kg of 125/31 suspension every 8 hours
+Dose doubled in severe infection
+6–12 years:			5 mL of 250/62 suspension every 8 hours
+Or 0.15 mL/kg of 250/62 suspension every 8 hours
+Dose doubled in severe infection
+
+In renal failure dose reduction may be necessary.  Please discuss with a pharmacist.
+
+PREPARATIONS
+Oral:	250/125mg (375mg), 500/125mg (625mg) tablets.
+	125/31mg, 250/62mg suspension.
+Parenteral: 500/100mg, 1000/200mg Powder for solution for injection or infusion.
+
+DRUG LEVEL MONITORING
+Drug levels need not be routinely measured.
+
+ADVERSE EFFECTS
+COMMON:
+Dermatological: Rash & urticaria (3%).
+Gastrointestinal: Nausea & vomiting (1-5%), diarrhoea (9%).
+Infective: Candidiasis, particularly oral and vaginal (1%).
+SERIOUS:
+Dermatological: Erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, exfoliative dermatitis.
+Hepatic: Hepatitis, cholestatic jaundice.
+Immunological: Anaphylaxis.
+
+ADVERSE EFFECTS: MONITORING
+Routine tests as per generic MDR-TB drug monitoring guidelines. (hyperlink)
+
+INTERACTONS
+No common serious drug interactions usually expected.
+Anticoagulants: Case reports of increased INR in patients taking acenocoumarol or warfarin and prescribed a course of amoxicillin. Monitor INR.
+
+This information is not inclusive of all drug interactions. Please discuss with a pharmacist. 
+
+CONTRA-INDICATIONS & CAUTIONS
+Contraindications: 
+Hypersensitivity: To penicillins.
+Liver Disease: Previous history of jaundice/hepatic impairment due to co-amoxiclav.
+
+Cautions:
+Pregnancy & Breast-feeding
+Renal Disease: Use with caution. Reduce dose in severe renal impairment.
+Liver Disease: Use with caution. Monitor liver function. Cholestatic jaundice may occur during or shortly after the use of co-amoxiclav. Risk is higher in patients aged >65 years and in men.
+
+LABORATORY INFORMATION
+Please find up to date information at www.assayfinder.com regarding individual providers of drug level monitoring tests. Click on the provider to discover contact details.  Turnaround time varies depending on the test and whether it is run locally or sent to an external lab.  By contacting laboratories in advance, turnaround time can significantly be reduced.
+
+
+
+
+CYCLOSERINE
+
+DOSAGE
+Adults: Initially 250mg twice a day (oral), increased to 500mg twice a day depending on serum concentrations.
+The usual target dose in adults is 10-15mg/kg/day
+Children: Target dose is 10-25mg/kg/day in two divided doses.
+
+All patients must be prescribed pyridoxine whilst receiving cycloserine.  The usual dose ranges from 50 to 100mg daily, up to 50mg per 250mg of cycloserine.
+
+PREPARATIONS
+Oral:	250mg capsules.
+
+DRUG LEVEL MONITORING
+Indications for monitoring:
+Ensure therapeutic dose.
+Ensure toxic levels are not reached.
+Renal impairment.
+Target Level:	20 – 35mg/L (peak).
+		10 – 20mg/L
+Timing of sample: 
+Peak – 2 hours post dose.
+Repeat at 6 hours if suspect delayed absorption.
+Trough levels – taken immediately prior to a dose.
+Frequency of Levels: 
+Serum levels after 4 days at target dose. 
+Repeat fortnightly for one month, then periodically if stable. 
+Repeat if suspect malabsorption, treatment failure, or neuropsychiatric side effects.
+Suggested Actions:
+High Peak Level: Reduce dose if level >35mg/L.  If level is 35 to 50mg/L, consider reducing dose by 25% per day. If level >50mg/L, consider halving the dose. Recheck level after four days.
+Low Peak Level:  Increase dose if level <15mg/L.
+Trough levels: Cyloserine absorption may be slow and consequently a 2-hour peak level may not capture the true Cmax.  It is rare to see elevated peak levels in the absence of elevated trough levels, therefore a raised trough level may indicate potentially toxic ‘true’ peak levels.  Consider serial peak serum level assays (e.g. at 2, 4 and 6 hours post dose), and dose reduction.
+
+ADVERSE EFFECTS
+COMMON:
+Neurological: Confusion, disorientation, dizziness, somnolence (increased risk if peak serum level >35mg/L).
+SERIOUS:
+Cardiovascular: Sudden development of congestive heart failure (rarely reported at doses greater than 1 to 1.5g daily).
+Dermatological: rash and photosensitivity, Stevens-Johnson syndrome (rare).
+Psychiatric: Depression, seizure, psychotic disturbances (increased risk if peak serum level >35mg/L).
+
+ADVERSE EFFECTS: MONITORING
+Routine tests as per generic MDR-TB drug monitoring guidelines. (hyperlink)
+
+INTERACTONS
+Alcohol: Increased risk of convulsions with cycloserine.
+Isoniazid: Increased risk of CNS toxicity when given with cycloserine.
+
+This information is not inclusive of all drug interactions. Please discuss with a pharmacist. 
+
+CONTRA-INDICATIONS & CAUTIONS
+Contraindications: 
+Hypersensitivity: To cycloserine.
+Neurological: Epilepsy, depression, severe anxiety, psychotic states.
+Alcohol Dependence.
+Renal Disease: Severe renal impairment.
+
+Cautions:
+Pregnancy & Breast-feeding
+Neurological: Stop or reduce dose if symptoms of central nervous system toxicity such as convulsions, psychosis, somnolence, depression, confusion, hyper-reflexia, headache, tremor, vertigo, paresis or dysarthria.
+Dermatological: Stop or reduce dose if allergic dermatitis develops.
+Renal Disease: Use with caution. Reduce dose in severe renal impairment. (HYPERLINK)
+
+LABORATORY INFORMATION
+Please find up to date information at www.assayfinder.com regarding individual providers of drug level monitoring tests. Click on the provider to discover contact details.  Turnaround time varies depending on the test and whether it is run locally or sent to an external lab.  By contacting laboratories in advance, turnaround time can significantly be reduced.
+
+
+ETHAMBUTOL
+
+DOSAGE
+Adults: 15mg/kg once daily (oral); or for DOT supervised regimen: 30mg/kg three times per week. (Round the dose up or down to the closest whole number of tablets).
+
+Note: Ethambutol should be dosed on lean body weight.
+Ideal body weight (men): 50 kg plus 2.3 kg/inch over 5 ft.
+Ideal body weight (women): 45 kg plus 2.3 kg/inch over 5 ft.
+
+Children (1 month to 18 years): 20mg/kg once daily (oral); or for DOT supervised regimen:  30mg/kg three times per week. (Doses should be rounded down to facilitate administration of suitable volumes of liquid or an appropriate strength of tablet).
+
+PREPARATIONS
+Oral:	100mg, 400mg tablets 	
+Voractiv® tablets (rifampicin 150mg, isoniazid 75mg, pyrazinamide 400mg, ethambutol 275mg).
+	Suspension (as a manufactured ‘special’ - unlicensed medicine).
+An intravenous preparation may be available from specialist importers.
+
+DRUG LEVEL MONITORING
+Indications for monitoring:
+Known or suspected malabsorption.
+Renal impairment.
+Poor treatment response.
+Target Level:	2 – 6mg/L (Peak)
+Timing of sample: 
+2 hours post dose.
+Repeat at 6 hours if suspect delayed.
+Frequency of Levels: 
+Drug levels need not be routinely measured.
+
+ADVERSE EFFECTS
+COMMON:
+Endocrine: Hyperuricaemia.
+Gastrointestinal: Nausea, vomiting.
+SERIOUS:
+Ophthalmic: Optic Neuritis (1-6%; greatest risk at doses >25mg/kg/day, or >2 months treatment), red/green colour blindness.
+
+ADVERSE EFFECTS: MONITORING
+Opthalmic:  Visual acuity and colour discrimination testing at baseline and 6 monthly, or more frequently if symptoms are reported.
+Routine tests as per generic MDR-TB drug monitoring guidelines. (hyperlink)
+
+INTERACTONS
+Isoniazid: Possible increased risk of optic neuropathy caused by ethambutol.
+
+This information is not inclusive of all drug interactions. Please discuss with a pharmacist. 
+
+CONTRA-INDICATIONS & CAUTIONS
+Contraindications: 
+Hypersensitivity: To ethambutol.
+Ophthalmic: Optic neuritis and poor vision unless clinical judgement determines that it may be used.
+
+Cautions:
+Renal Disease: Reduce dose in severe renal impairment.
+Young Children: Due to difficulty in testing eyesight and obtaining reports on symptomatic visual changes.
+Elderly Patients: Due to the risks of ophthalmic adverse effects.
+
+LABORATORY INFORMATION
+Please find up to date information at www.assayfinder.com regarding individual providers of drug level monitoring tests. Click on the provider to discover contact details.  Turnaround time varies depending on the test and whether it is run locally or sent to an external lab.  By contacting laboratories in advance, turnaround time can significantly be reduced.
+Sample Type: Serum. 
+Volume Required: 2 ml.
+Sample Container: Plain (non SST).
+Container Type: Any.
+Availability: Office Hours.
+Turnaround Time: 7 Days.
+
+
+
+IMIPENEM/CILASTATIN
+
+Please note Imipenem is not licensed for the treatment of tuberculosis in the UK.
+Imipenem is not usually recommended for the treatment of MDRTB. When it is used, it should be counted as half a drug in a treatment regimen.
+
+DOSAGE 
+[NOTE: Limited data on evidence for dosing in TB]
+Adults (>50kg): 1g twice a day (intravenous). 
+Adults (<50kg): 15mg/kg twice a day (intravenous). 
+Children: 20-40mg/kg (max 2g) three times a day (intravenous).
+
+In renal failure dose reduction may be necessary.  Please discuss with a pharmacist.
+
+PREPARATIONS
+Parenteral:	500/500mg 250mg powder for solution for infusion.
+
+DRUG LEVEL MONITORING
+Drug levels need not be routinely measured.
+
+ADVERSE EFFECTS
+COMMON:
+Dermatological: Rash & urticaria (3%), injection site pain.
+Gastrointestinal: Nausea, vomiting, diarrhoea.
+Haematologic: Thrombophlebitis (3%), eosinophillia (4%).
+Hepatic: Transient mild increases in LFTs.
+Renal: Transient increases in urea and/or serum creatinine concentrations (<2%).
+SERIOUS:
+Immunological: Anaphylaxis.
+Infections: Clostridium difficile-associated diarrhoea and colitis.
+Haematologic: Pancytopaenia, neutropaenia, leucopaenia, thrombocytopaenia, thrombocytosis (rare): agranulocytosis.
+Neurological: Seizures.
+Renal (rare): Acute renal failure, oliguria/anuria, polyuria, urine discoloration.
+
+ADVERSE EFFECTS: MONITORING
+Routine tests as per generic MDR-TB drug monitoring guidelines. (hyperlink)
+
+INTERACTONS
+Ganciclovir: Increased risk of convulsions.
+Valproate: Reduced serum concentrations of valproate. Avoid concomitant use.
+
+This information is not inclusive of all drug interactions. Please discuss with a pharmacist. 
+
+
+CONTRA-INDICATIONS & CAUTIONS
+Contraindications: 
+Hypersensitivity: Severe hypersensitivity to penicillins, carbapenems or cephalosporins.
+Pregnancy.
+
+Cautions:
+TB Meningitis: Increased risk of seizures. Meropenem may be preferred.
+CNS disease: Increased risk of seizures. Meropenem may be preferred.
+Breast-feeding.
+Renal impairment: Increased risk of seizures, reduce dose.
+Liver disease: Monitor LFTs (risk of increase in transaminases, hepatic failure and fulminant hepatitis).
+
+LABORATORY INFORMATION
+Please find up to date information at www.assayfinder.com regarding individual providers of drug level monitoring tests. Click on the provider to discover contact details.  Turnaround time for tests is usually a few days to a week but this can be reduced by calling ahead and informing the laboratory in advance.
+
+
+
+ISONIAZID
+
+DOSAGE
+Adults: 300mg once a day (oral or intravenous). Consider 5mg/kg once a day if low body weight (oral or intravenous); or for DOT supervised regimen: 15mg/kg three times a week (oral).
+
+Children: 10mg/kg (max. 300mg) once a day (oral or intravenous); or for DOT supervised regimen: 15mg/kg (max. 900mg) three times a week (oral).
+Doses should be rounded up to facilitate administration of suitable volumes of liquid or an appropriate strength of tablet.
+Isoniazid should be taken 30-60 minutes before food, or 2 hours after food.
+
+Pyridoxine can be used to reduce the risk of peripheral neuropathy in all patients taking isoniazid.  In particular it should be prescribed for those most at-risk, such as patients with diabetes, alcohol abuse or malnutrition.
+
+ADULTS: In cases with low-level isoniazid resistance, doses of 16-18mg/kg once a day have been used.  All patients prescribed high-dose isoniazid must also be prescribed pyridoxine as there is an increased risk of peripheral neuropathy.
+
+PREPARATIONS
+Oral:	100mg capsules.
+	Liquid (as a manufactured ‘special’ - unlicensed medicine).
+	Rifinah® 300/150 tablets (rifampicin 300mg, isoniazid 150mg).
+	Rifinah® 150/100 tablets (rifampicin 150mg, isoniazid 100mg).
+	Rifater tablets (rifampicin 120mg, isoniazid 50mg, pyrazinamide 300mg).
+Voractiv® tablets (rifampicin 150mg, isoniazid 75mg, pyrazinamide 400mg, ethambutol 275mg).
+Parenteral: 50mg/2mL ampoules.
+
+DRUG LEVEL MONITORING
+Indications for monitoring:
+Known or suspected malabsorption.
+Poor treatment response.
+Target Level:	3 – 5mg/mL (Peak).
+Timing of sample: 
+2 hours post dose.
+Repeat at 6 hours if suspect delayed absorption.
+Frequency of Levels: 
+Drug levels need not be routinely measured.
+
+Adherence Monitoring
+INH strips can be used to measure adherence to isoniazid treatment.  
+BBL Taxo INH Test Strips are absorbent paper strips that colour green, blue or purple in the presence of isonicotinic acid (a metabolite of isoniazid)
+BBL Taxo INH Test Control is an isoniazid-impregnated disc that will yield a positive result in the test procedure.
+
+ADVERSE EFFECTS
+COMMON:
+Neurological: Peripheral Neuropathy.
+Hepatic: Transient increases in LFTs.
+SERIOUS:
+Dermatological: Skin reactions e.g. urticaria (uncommon).
+Haematologic: Agranulocytosis, megaloblastic anaemia, thrombocytopaenia.
+Hepatic: Hepatotoxity (rare).
+Immunological: Drug-induced lupus (rare).
+Musculoskeletal: Arthralgia, rhabdomyolysis.
+Neurological: Seizure, psychosis (rare).
+
+ADVERSE EFFECTS: MONITORING
+Routine tests as per generic MDR-TB drug monitoring guidelines. (hyperlink)
+
+INTERACTONS
+Carbamazepine: increased plasma concentration of carbamazepine. Increased risk of hepatoxicity.
+Food: Reduced absorption. Take isoniazid 30-60 minutes before food, or 2 hours after food.
+Food: Possible increased risk of headache, sweating, palpitations, flushing, hypotension when eating certain foods such as cheese, skipjack tuna or other tropical fish, or red wine.  Usually, no dietary restrictions are required unless symptoms are experienced.  This reaction is thought to be due to the high histamine or tyramine content of these foods and drink, resulting in an exaggerated histamine poisoning reaction due to inhibition of histamine metabolism by isoniazid, or the sympathomimetic  action of tyramine due to inhibition of mono-amine oxidase by isoniazid.
+
+This information is not inclusive of all drug interactions. Please discuss with a pharmacist. 
+
+CONTRA-INDICATIONS & CAUTIONS
+Contraindications: 
+Hypersensitivity: To isoniazid.
+
+Cautions:
+Liver disease, alcohol abuse, hepatitis B co-infection: monitor LFTs closely. 
+Malnutrition, HIV co-infection, diabetes mellitus, and alcohol dependence: Increased risk of peripheral neuropathy; prescribe prophylactic pyridoxine.
+
+LABORATORY INFORMATION
+Please find up to date information at www.assayfinder.com regarding individual providers of drug level monitoring tests. Click on the provider to discover contact details.  Turnaround time varies depending on the test and whether it is run locally or sent to an external lab.  By contacting laboratories in advance, turnaround time can significantly be reduced.
+Sample Type: Plasma.
+Volume Required: 2 ml.
+Sample Container: Fluoride Oxalate.
+Container Type: Any.
+Availability: Office Hours.
+Turnaround Time: 7 Days.
+
+LEVOFLOXACIN
+
+Please note levofloxacin is not licensed for the treatment of tuberculosis in the UK.
+Despite the lack of data establishing the safety and efficacy of fluoroquinolone use in children they continue to be used to treat MDR-TB in children of all ages in clinical practice.  It is felt the benefit of treatment of MDR-TB outweighs the small potential risk of adverse reactions.
+If using a flouroquinolone we would recommend moxifloxacin as first choice agent followed by levofloxacin.
+
+DOSAGE
+Adults: 500mg to 1000mg once daily (oral or intravenous).
+Children (>5 years): 10mg/kg once daily.
+Children (<5 years): 7.5-10mg/kg once daily (limited experience).
+
+PREPARATIONS
+Oral:	250mg, 500mg tablets.
+Parenteral: 400mg/100mL solution for infusion.
+
+DRUG LEVEL MONITORING
+Indications for monitoring:
+Known or suspected malabsorption.
+Poor treatment response.
+Target Level:	8 – 12mg/L (peak).
+		0.5 – 2 mg/L (trough).
+Timing of sample: 
+2 hours post oral dose (or 1 hour after the end of intravenous infusion).
+Repeat at 6 hours if suspect delayed absorption.
+Consider taking a trough level.
+Frequency of Levels: 
+Drug levels need not be routinely measured.
+
+ADVERSE EFFECTS
+COMMON:
+Gastrointestinal: Nausea, vomiting, diarrhoea.
+Other: Dizziness, headache.
+Hepatic: Transient increases in LFTs.
+SERIOUS:
+Cardiovascular: QTc prolongation (rare; more common in hypokalaemia, and predisposing cardiac conditions).
+Dermatological: Stevens-Johnson syndrome or toxic epidermal necrolysis (rare).
+Metabolic: Hypoglycaemia (in patients on hypoglycaemic drugs, uncommon).
+Haematologic: Eosinophilia, leucopaenia (uncommon), thrombocytopaenia, neutropaenia (rare).
+Hepatic: Acute hepatitis (rare).
+Immunological: Anaphylaxis, immune hypersensitivity (uncommon).
+Musculoskeletal: Tendon inflammation and rupture (see contra-indications below).
+Neurological: Seizures (caution in patients with CNS disorders).
+Renal: Renal impairment (rare).
+ADVERSE EFFECTS: MONITORING
+ECG: Baseline, 2 weeks then every 3 months and after the addition of any new medication that is known to prolong QT. 
+LFTs, U&Es and FBC should also be monitored sporadically throughout treatment.  No specific frequency recommendations but generic monitoring guidelines should be frequent enough.
+Routine tests as per generic MDR-TB drug monitoring guidelines. (hyperlink)
+
+INTERACTONS
+Amiodarone: Increased risk of ventricular arrhythmia.
+Antacids: Reduced absorption of levofloxacin.
+Anticoagulants: Possible enhanced effect of coumarins (e.g. warfarin) and phenindione.
+Ciclosporin: Increased risk of nephropathy.
+Iron: Reduced absorption of levofloxacin.
+NSAIDS: Possible increased risk of convulsions.
+Theophylline: Increased risk of convulsions. Reduce dose of theophylline and monitor levels.
+Zinc: Reduced absorption of levofloxacin.
+Drugs known to prolong the QT interval: use with caution in patients taking Class IA and III anti-arrhythmics, tricyclic antidepressants, macrolides, antipsychotics.
+
+This information is not inclusive of all drug interactions. Please discuss with a pharmacist. 
+
+CONTRA-INDICATIONS & CAUTIONS
+Contraindications: 
+Hypersensitivity: To levofloxacin or other quinolones.
+Epilepsy/Seizure Activity: May induce convulsions in patients with or without history of convulsions, use with caution if epileptic or conditions predisposing seizures.
+Tendon Damage: Rarely reported but damage or rupture may occur within 48 hours of treatment and several months after stopping treatment. Increased risk in patients with a history of tendon disorders related to quinolone use, aged over 60 years, concomitant use of corticosteroids. Cease all quinolone treatment if tendinitis suspected.
+Pregnancy: Avoid in pregnancy, animal studies have shown quinolones cause arthropathy.
+Breast Feeding: Avoid, present in milk in animal studies.
+Children: Levofloxacin is contra-indicated in the UK for use in children or growing adolescents. Use in TB with caution. Arthropathy has developed in weight-bearing joints in young animals.
+
+Cautions:
+May impair performance of skilled tasks such as driving
+Long QT Syndrome: Can prolong QT interval. Use with caution in patients with risk factors for QT interval prolongations.
+Myasthenia Gravis: Risk of exacerbation.
+G6PD deficiency: Risk of haemolytic reactions when treated with quinolones.
+Liver Disease: Monitor LFTs.
+Renal Disease: Reduce dose in renal impairment.
+Sunlight: Risk of photosensitivity reaction.
+Serious bullous skin reactions: Risk of Stevens-Johnson syndrome or toxic epidermal necrolysis.
+Peripheral Neuropathy: Sensorimotor polyneuropathy resulting in paraesthesias, hypoaesthesias, dysaesthesias, or weakness.
+
+LABORATORY INFORMATION
+Please find up to date information at www.assayfinder.com regarding individual providers of drug level monitoring tests. Click on the provider to discover contact details.  Turnaround time varies depending on the test and whether it is run locally or sent to an external lab.  By contacting laboratories in advance, turnaround time can significantly be reduced.
+Sample Type: Serum.
+Volume Required: Ideally 2ml (min 0.1mL).
+Sample Container: Plain glass or plastic (non SST).
+Container Type: Any.
+Availability: NS.
+Turnaround Time: Telephoned same day if received 9am-3pm Mon-Fri if advanced warning given. Written confirmation report will be sent by 1st Class post
+The sample must be heat-treated before dispatch if HIV positive.
+Please telephone at least one day in advance of the sample.
+
+
+
+LINEZOLID
+
+Please note linezolid is not licensed for the treatment of tuberculosis in the UK.
+Linezolid is not usually recommended for the treatment of MDRTB. When it is used, it should be counted as half a drug in a treatment regimen.
+
+DOSAGE
+By mouth or intravenous infusion.
+Adults, and adolescents: 600mg once a day (oral or intravenous).
+Children (age 1 week – 12 years): 10mg/Kg every 8 hours (oral or intravenous).
+
+PREPARATIONS
+Oral:	600mg tablets.
+	100mg/5mL granules for oral suspension.
+Parenteral: 600mg/300mL solution for infusion.
+
+DRUG LEVEL MONITORING
+Indications for monitoring:
+Known or suspected malabsorption.
+Poor treatment response.
+Target Level:	12-24 mg/L (peak).
+Timing of sample: 	
+2 hours post-oral dose or 1 hour post IV infusion.
+Frequency of Levels: 
+No need for regular monitoring.
+
+ADVERSE EFFECTS
+COMMON:
+Gastrointestinal: Diarrhoea (4%), nausea (3%), vomiting.
+Neurological: Headache (2%).
+Infections: Candidiasis, particularly oral and vaginal (1%).
+Hepatic: Transient increases in LFTs.
+SERIOUS:
+Metabolic: Lactic acidosis.
+Dermatological: Urticaria, rash; (rare): Bullous disorders such as Stevens-Johnson syndrome & toxic epidermal necrolysis.
+Haematologic: Myelosupression.
+Neurological: Peripheral neuropathy, seizure, serotonin syndrome.
+Ophthalmic: Optic neuropathy.
+
+ADVERSE EFFECTS: MONITORING
+FBC: Weekly for the 2 months.  Consider reducing to monthly if stable thereafter.
+VISUAL ACUITY & COLOUR DISCRIMINATION:  Encourage patients to report any changes to their vision and refer to ophthalmology if any reported.  Routine monitoring 6 monthly.
+
+Routine tests as per generic MDR-TB drug monitoring guidelines. (hyperlink)
+
+INTERACTONS
+Patients should avoid consuming large amounts of tyramine-rich foods (such as mature cheese, yeast extracts, undistilled alcoholic beverages, and fermented soya bean products). In addition, linezolid should not be given with another MAOI or within 2 weeks of stopping another MAOI. Unless close observation and blood-pressure monitoring is possible, avoid in those receiving SSRIs, 5HT1 agonists (‘triptans’), tricyclic antidepressants, sympathomimetics, dopaminergics, buspirone, pethidine and possibly other opioid analgesics.
+
+This information is not inclusive of all drug interactions. Please discuss with a pharmacist. 
+
+CONTRA-INDICATIONS & CAUTIONS
+Contraindications: 
+Hypersensitivity: To linezolid.
+Mono-amine oxidase inhibitors: Avoid concomitant use of other drugs that inhibit monoamine oxidases A or B (e.g. phenelzine, isocarboxazid, selegiline, moclobemide) or within two weeks of taking any such medicinal product.
+Avoid in patients with: Uncontrolled hypertension, phaechromocytoma, carcinoid tumour, thyrotoxicosis, bipolar depression, schizophrenia or acute confusional states.
+Breast-feeding
+
+Cautions:
+Pregnancy
+Avoid: Consumption of large amounts of tyramine rich foods.
+Epilepsy/history of seizures: Increased risk of convulsions.
+Renal impairment: No dose adjustment is required. However two primary metabolites may accumulate in severe renal impairment, but the clinical significance of this is unknown. Use with caution and monitor for adverse effects closely (see above).
+Liver disease: No dose adjustment is required. However due to limited clinical data, use with caution and monitor for adverse effects closely (see above).
+Peripheral and optic neuropathy: Patients should be advised to report symptoms of visual impairment.
+
+LABORATORY INFORMATION
+Please find up to date information at www.assayfinder.com regarding individual providers of drug level monitoring tests. Click on the provider to discover contact details.  Turnaround time varies depending on the test and whether it is run locally or sent to an external lab.  By contacting laboratories in advance, turnaround time can significantly be reduced.
+Sample Type: Serum.
+Volume Required: 2ml (min 0.1mL).
+Sample Container: Plain plastic (non SST).
+Container Type: Any.
+Availability: NS
+Turnaround Time: Telephoned same day if received 9am-3pm Mon-Fri. Written confirmation report will be sent by 1st Class post.
+The sample must be heat-treated before dispatch if HIV positive.
+Please telephone at least one day in advance of the sample.
+MEROPENEM
+
+Please note meropenem is not licensed for the treatment of tuberculosis in the UK.
+Meropenem is not usually recommended for the treatment of MDRTB. When it is used, it should be counted as half a drug in a treatment regimen.
+
+DOSAGE
+Adults: 
+1g three times a day (intravenous).
+NB. Should be used in combination with clavulanate in the form of a combination of co-amoxiclav 625mg (500 mg/125 mg) three times a day.
+Children: 
+Adult dose in weights over 50Kg.
+1 month–12 years 10–20 mg/kg every 8 hours.
+
+In renal failure dose reduction may be necessary.  Please discuss with a pharmacist.
+
+PREPARATIONS
+Parenteral:	500mg, 1g powder for solution for injection or infusion.
+
+DRUG LEVEL MONITORING
+Drug levels need not be routinely measured.
+
+ADVERSE EFFECTS
+COMMON:
+Dermatological: Rash, pruritis, injection site inflammation (2%).
+Gastrointestinal: Abdominal pain, diarrhoea (3-7%), nausea & vomiting (3%).
+Haematological: Thrombocythaemia.
+Hepatic: Transient increases in LFTs.
+Neurological: Headache (2-8%).
+SERIOUS:
+Dermatological: Erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis.
+Haematological: Eosinophilia, thrombocytopaenia, leucopaenia, neutropaenia.
+Immunological: Anaphylaxis, angioedema.
+Infective: Clostridium difficile-associated diarrhoea and colitis.
+Neurological: Seizures.
+
+ADVERSE EFFECTS: MONITORING
+Routine tests as per generic MDR-TB drug monitoring guidelines. (hyperlink)
+
+INTERACTONS
+Valproate: Reduced serum concentrations of valproate. Avoid concomitant use.
+Please discuss with a pharmacist. 
+
+
+CONTRA-INDICATIONS & CAUTIONS
+Contraindications: 
+Hypersensitivity: To carbapenems.
+Hypersensitivity: Severe hypersensitivity to penicillins or cephalosporins.
+Pregnancy
+
+Cautions:
+Breast-feeding.
+Liver disease: Monitor LFTs (hepatic dysfunction with cholestasis and cytolysis).
+
+LABORATORY INFORMATION
+Please find up to date information at www.assayfinder.com regarding individual providers of drug level monitoring tests. Click on the provider to discover contact details.  Turnaround time varies depending on the test and whether it is run locally or sent to an external lab.  By contacting laboratories in advance, turnaround time can significantly be reduced.
+
+
+
+
+MOXIFLOXACIN
+
+Please note moxifloxacin is not licensed to treat tuberculosis in the UK.
+Despite the lack of data establishing the safety and efficacy of fluoroquinolone use in children they continue to be used to treat MDR-TB in children of all ages in clinical practice.  It is felt the benefit of treatment of MDR-TB outweighs the small potential risk of adverse reactions.
+If using a flouroquinolone we would recommend moxifloxacin as first choice agent followed by levofloxacin.
+
+DOSAGE
+Adults: 400mg once a day (oral or intravenous).
+Children: 7.5 – 10mg/kg once a day (oral).
+
+PREPARATIONS
+Oral:	400mg tablets.
+Parenteral: 400mg/250mL solution for infusion.
+
+DRUG LEVEL MONITORING
+Indications for monitoring:
+Known or suspected malabsorption.
+Poor treatment response.
+Target Level:	2.5 – 4mg/L (peak).
+Timing of sample: 	
+2 hours post dose. 
+Repeat at 6 hours if suspect delayed absorption.
+Frequency of Levels: 
+No need for regular monitoring.
+
+ADVERSE EFFECTS
+COMMON:
+Cardiovascular: QTc prolongation (more common in hypokalaemia, proarrhythmic conditions, in combination with other drugs that prolong the QT interval such as ondansetron).
+Gastrointestinal: Nausea, vomiting, diarrhoea.
+Hepatic: Transient increases in LFTs.
+Other: Dizziness, headache.
+SERIOUS:
+Cardiovascular: QTc prolongation (rare; more common in hypokalaemia, and predisposing cardiac conditions).
+Dermatological: Stevens-Johnson syndrome or toxic epidermal necrolysis (rare).
+Haematological: (Uncommon) agranulocytosis, aplastic anaemia, haemolytic anaemia, thrombocytopaenia.
+Hepatic: Acute hepatitis (rare).
+Immunological: Anaphylaxis, immune hypersensitivity (uncommon).
+Musculoskeletal: Tendon inflammation and rupture (see contra-indications below).
+Neurological: Seizures: (Caution in patients with CNS disorders).
+Renal: Renal impairment (rare).
+Respiratory: Extrinsic allergic alveolitis (rare).
+Other: Serum sickness (rare).
+
+ADVERSE EFFECTS: MONITORING
+ECG: Baseline, 2 weeks then every 3 months and after the addition of any new medication that is known to prolong QT. 
+LFTs, U&Es and FBC should be monitored sporadically throughout treatment.  No specific frequency recommendations, please see generic monitoring guidelines for further information.
+Routine tests as per generic MDR-TB drug monitoring guidelines. (hyperlink)
+
+INTERACTONS
+Antacids: Reduced absorption of moxifloxacin.
+Anti-arrhythmics: Increased risk of ventricular arrhythmias with amiodarone or disopyramide.
+Antidepressants: Increased risk of ventricular arrhythmias with tricyclics.
+Antimalarials: Increased risk of ventricular arrhythmias with chloroquine, hydroxychloroquine, mefloquine, quinine.
+Antipsychotics: Increased risk of ventricular arrhythmias with benperidol, droperidol, haloperidol, phenothiazines, pimozide and zuclopenthixol.
+Antivirals: Increased risk of ventricular arrhythmias with saquinavir.
+Beta-blockers: Increased risk of ventricular arrhythmias with sotalol.
+Ciclosporin: Increased risk of nephropathy.
+Erythromycin: Increased risk of ventricular arrhythmias when erythromycin given via intravenous route.
+Iron: Reduced absorption of moxifloxacin.
+NSAIDS: Possible increased risk of convulsions.
+Pentamidine: Increased risk of ventricular arrhythmias.
+Theophylline: Increased risk of convulsions. Reduce dose of theophylline and monitor levels.
+Zinc: reduced absorption of moxifloxacin.
+Drugs known to prolong the QT interval: use with caution in patients taking Class IA and III anti-arrhythmics, tricyclic antidepressants, macrolides, antipsychotics.
+
+This information is not inclusive of all drug interactions. Please discuss with a pharmacist. 
+
+CONTRA-INDICATIONS & CAUTIONS
+Contraindications: 
+Hypersensitivity: To moxifloxacin or other quinolones.
+Tendon Damage: Rarely reported but damage or rupture may occur within 48 hours of treatment and several months after stopping treatment. Increased risk in patients with a history of tendon disorders related to quinolone use, aged over 60 years, concomitant use of corticosteroids. Cease all quinolone treatment if tendinitis suspected.
+Pregnancy: Avoid in pregnancy, animal studies have shown quinolones cause arthropathy.
+Breast Feeding: Avoid, present in milk in animal studies.
+Children: Moxifloxacin is contra-indicated in the UK for use in children or growing adolescents. Use in TB with caution. Arthropathy has developed in weight-bearing joints in young animals.
+Cardiovascular: Due to the risk of QT prolongation with moxifloxacin, is should not be used in patients with congenital or documented acquired QT prolongation, clinically relevant bradycardia, clinically relevant heart failure with reduced left-ventricular ejection fraction, previous history of symptomatic arrhythmias, or electrolyte disturbances, particularly in uncorrected hypokalaemia.
+Liver disease: Chronic liver disease; particularly Child Pugh severity score C and in those patients with transaminase levels 5 fold greater than the upper limit of normal.  Consider using Levofloxacin as an alternative in these patients.
+Concurrent use with other drugs that prolong the QT interval.
+
+Cautions:
+May impair performance of skilled tasks such as driving
+Myasthenia Gravis: Risk of exacerbation.
+G6PD deficiency: Risk of haemolytic reactions when treated with quinolones.
+Sunlight: Risk of photosensitivity reaction.
+Epilepsy/Seizure Activity: May induce convulsions in patients with or without history of convulsions, use with caution if epileptic or conditions predisposing seizures.
+Liver Disease: Cases of fulminant hepatitis potentially leading to liver failure (including fatal cases) have been reported.
+Serious bullous skin reactions: Risk of Stevens-Johnson syndrome or toxic epidermal necrolysis.
+Peripheral Neuropathy: Sensorimotor polyneuropathy resulting in paraesthesias, hypoaesthesias, dysaesthesias, or weakness.
+
+LABORATORY INFORMATION
+Please find up to date information at www.assayfinder.com regarding individual providers of drug level monitoring tests. Click on the provider to discover contact details.  Turnaround time varies depending on the test and whether it is run locally or sent to an external lab.  By contacting laboratories in advance, turnaround time can significantly be reduced.
+Sample Type: Serum.
+Volume Required: 2ml (min 0.1mL).
+Sample Container: Plain glass or plastic (non SST).
+Container Type: Any.
+Availability: NS.
+Turnaround Time: Telephoned same day if received 9am-3pm Mon-Fri if advanced warning given. Written confirmation report will be sent by 1st Class post.
+
+The sample must be heat-treated before dispatch if HIV positive.
+Please telephone at least one day in advance of the sample.
+
+
+
+OFLOXACIN
+
+Please note ofloxacin is not licensed to treat tuberculosis in the UK. 
+Despite the lack of data establishing the safety and efficacy of fluoroquinolone use in children they continue to be used to treat MDR-TB in children of all ages in clinical practice.  It is felt the benefit of treatment of MDR-TB outweighs the small potential risk of adverse reactions.
+If using a flouroquinolone we would recommend moxifloxacin as first choice agent followed by levofloxacin.
+
+DOSAGE
+Adults: 400mg twice a day (oral or intravenous).
+Children: 7.5-10 mg/kg (max. 400mg) twice a day (oral).
+
+PREPARATIONS
+Oral:	200mg, 400mg tablets.
+Parenteral: 200mg/100ml solution for infusion.
+
+DRUG LEVEL MONITORING
+Indications for monitoring:
+Known or suspected malabsorption.
+Poor treatment response.
+Target Level:  Unknown.
+Timing of sample: 
+2 hours post oral dose (or 1 hour after the end of intravenous infusion).
+Repeat at 6 hours if suspect delayed absorption.
+Consider taking a trough level.
+Frequency of Levels: 
+Drug levels need not be routinely measured.
+
+ADVERSE EFFECTS
+COMMON:
+Gastrointestinal: Nausea, vomiting, diarrhoea.
+Other: Dizziness, headache.
+Hepatic: Transient increases in LFTs.
+SERIOUS:
+Cardiovascular: QTc prolongation (rare; more common in hypokalaemia, and predisposing cardiac conditions).
+Dermatological: Stevens-Johnson syndrome or toxic epidermal necrolysis (rare).
+Metabolic: Hypoglycaemia (in patients on hypoglycaemic drugs, uncommon).
+Haematological: Eosinophilia, leucopaenia (uncommon), thrombocytopaenia, neutropaenia (rare).
+Hepatic: Acute hepatitis (rare).
+Immunological: Anaphylaxis, immune hypersensitivity (uncommon).
+Musculoskeletal: Tendon inflammation and rupture (see contra-indications below).
+Neurological: Seizures (caution in patients with CNS disorders).
+Renal: Renal impairment (rare).
+
+
+ADVERSE EFFECTS: MONITORING
+ECG: Baseline, 2 weeks then every 3 months and after the addition of any new medication that is known to prolong QT. 
+LFTs, U&Es and FBC should also be monitored sporadically throughout treatment.  No specific frequency recommendations but generic monitoring guidelines should be frequent enough.
+Routine tests as per generic MDR-TB drug monitoring guidelines. (hyperlink)
+
+INTERACTONS
+Antacids: Reduced absorption of ofloxacin.
+Anticoagulants: Possible enhanced effect of coumarins (e.g. warfarin).
+Ciclosporin: Increased risk of nephropathy.
+Iron: Reduced absorption of ofloxacin.
+NSAIDS: Possible increased risk of convulsions.
+Theophylline: Increased risk of convulsions. Reduce dose of theophylline and monitor levels.
+Zinc: Reduced absorption of ofloxacin.
+Drugs known to prolong the QT interval: Use with caution in patients taking Class IA and III anti-arrhythmics, tricyclic antidepressants, macrolides, antipsychotics.
+
+This information is not inclusive of all drug interactions. Please discuss with a pharmacist. 
+
+CONTRA-INDICATIONS & CAUTIONS
+Contraindications: 
+Hypersensitivity: To levofloxacin or other quinolones.
+Epilepsy/Seizure Activity: May induce convulsions in patients with or without history of convulsions, use with caution if epileptic or conditions predisposing seizures.
+Tendon Damage: Rarely reported but damage or rupture may occur within 48 hours of treatment and several months after stopping treatment. Increased risk in patients with a history of tendon disorders related to quinolone use, aged over 60 years, concomitant use of corticosteroids. Cease all quinolone treatment if tendinitis suspected.
+Pregnancy: Avoid in pregnancy, animal studies have shown quinolones cause arthropathy.
+Breast Feeding: Avoid, present in milk in animal studies.
+Children: Levofloxacin is contra-indicated in the UK for use in children or growing adolescents. Use in TB with caution. Arthropathy has developed in weight-bearing joints in young animals.
+G6PD deficiency: Risk of haemolytic reactions when treated with quinolones.
+
+Cautions:
+May impair performance of skilled tasks such as driving.
+Long QT Syndrome: Can prolong QT interval. Use with caution in patients with risk factors for QT interval prolongations.
+Myasthenia Gravis: Risk of exacerbation.
+Liver Disease: Monitor LFTs.
+Renal Disease: Reduce dose in renal impairment.
+Sunlight: Risk of photosensitivity reaction
+Serious bullous skin reactions: Risk of Stevens-Johnson syndrome or toxic epidermal necrolysis.
+Peripheral Neuropathy: Sensorimotor polyneuropathy resulting in paraesthesias, hypoaesthesias, dysaesthesias, or weakness.
+
+
+LABORATORY INFORMATION
+Please find up to date information at www.assayfinder.com regarding individual providers of drug level monitoring tests. Click on the provider to discover contact details.  Turnaround time varies depending on the test and whether it is run locally or sent to an external lab.  By contacting laboratories in advance, turnaround time can significantly be reduced.
+Sample Type: Serum.
+Volume Required: 2ml (min 0.1mL).
+Sample Container: Plain glass or plastic (non SST).
+Container Type: Any.
+Availability: NS.
+Turnaround Time: Telephoned same day if received 9am-3pm Mon-Fri if advanced warning given. Written confirmation report will be sent by 1st Class post.
+
+The sample must be heat-treated before dispatch if HIV positive.
+Please telephone at least one day in advance of the sample.
+
+
+
+P-AMINOSALICYLIC ACID (PAS / PASER®)
+
+Please note p-aminosalicylic acid is not licensed in the UK.
+
+DOSAGE
+Adults: 150mg/kg/day in two to four divided doses (oral).  Usual dose is 8-12g per day.
+Children: 200-300mg/kg/day (max. 10g per day) in two to four divided doses (oral).
+
+The Paser® brand of p-aminosalicyclic acid should be prescribed, since these have an acid-resistant coating, preventing stomach gastric acid from degrading the drug to m-aminophenol, a known hepatotoxin. The enteric coating therefore prevents acid degradation of the drug in the stomach, and releases the drug in the small intestine where neutral pH causes fast dissolution of the enteric coating.
+
+The granules of p-aminosalicyclic acid should be sprinkled on to an acidic food such as applesauce or yogurt, or mixed in acidic juices such as tomato, grape, grapefruit, cranberry, apple, or orange. The granules must not be chewed, and must not be mixed with neutral pH food or drink.
+
+Take p-aminosalicyclic acid with food to reduce gastrointestinal adverse effects.
+
+P-aminosalicyclic acid is only available in 4g sachets. In order to give part of a sachet, flatten out the packet, so that the granules are spread evenly in the packet.  Cut the packet to the approximate dose required – i.e. cut into halves for 2g doses, and into quarters for 1g doses. Discard the remaining unused portions of the packet.
+
+PREPARATIONS
+Oral:	4g granules per sachet (unlicensed medicine).
+
+DRUG LEVEL MONITORING
+Drug levels need not be routinely measured.
+
+ADVERSE EFFECTS
+COMMON:
+Gastrointestinal: Nausea, vomiting, diarrhoea, abdominal pain.
+Immunological: Hypersensitivity reactions (5-10%) including rash & fever.
+SERIOUS:
+Metabolic: Hypothyroidism.
+Haematological: Haemolytic anaemia (patients with G6PD deficiency), agranulocytosis, eosinophilia, leucopaenia, and thrombocytopaenia.
+Hepatic: Acute hepatitis (rare).
+
+ADVERSE EFFECTS: MONITORING
+TFTs: 3 monthly (if being given in combination with prothionamide, increase to monthly)
+Routine tests as per generic MDR-TB drug monitoring guidelines. (hyperlink)
+
+INTERACTONS
+Antacids: Fast dissolution of acid-resistant coating, resulting in early release of p-aminosalicyclic acid into the stomach. However as the stomach gastric acid will have been neutralised, degradation of p-aminosalicyclic acid to m-aminophenol will not occur. No dose adjustments required, however administration of p-aminosalicyclic acid in acidic food or drinks is not required.
+Digoxin: Possible decrease in digoxin absorption. Monitor digoxin serum concentrations. 
+Prothionamide: increased risk of hypothyroidism, possible increased risk of hepatoxicity.
+Rifamycins: reduced absorption of rifamycins. Give 8-12 hours apart.
+
+This information is not inclusive of all drug interactions. Please discuss with a pharmacist. 
+
+CONTRA-INDICATIONS & CAUTIONS
+Contraindications: 
+Hypersensitivity: To p-aminosalicylic acid, or to aspirin.
+Renal Disease: Manufacturer advises to avoid in severe renal failure, as an inactive metabolite is renally excreted.  May worsen acidosis and/or crystalluria in severe renal failure.
+
+Cautions:
+Pregnancy: Use in pregnancy has not been studied/
+Breast-feeding: P-aminosalicylic acid is secreted into breast milk at 1/70th of the maternal plasma concentration.
+
+LABORATORY INFORMATION
+Please find up to date information at www.assayfinder.com regarding individual providers of drug level monitoring tests. Click on the provider to discover contact details.  Turnaround time varies depending on the test and whether it is run locally or sent to an external lab.  By contacting laboratories in advance, turnaround time can significantly be reduced.
+
+
+
+
+PROTHIONAMIDE
+
+Please note prothionamide is not licensed in the UK.
+Prothionamide is a thioamide, and is considered to be interchangeable with ethionamide (currently not available in the UK).
+
+DOSAGE
+Adult & paediatric doses are the same per kg.
+Adults: 7.5-10mg/kg (max 500mg) twice a day (oral). Usual dose is 500 to 750mg (max. 1000mg) per day.
+Children: 7.5-10mg/kg (max 500mg) twice a day (oral). Usual dose is 500 to 750mg (max. 1000mg) per day.
+
+Prothionamide should be taken with or after meals to reduce gastrointestinal adverse effects.  Most patients also require gradual dose escalation, i.e. for adults: initially 250mg once a day, increasing by 250mg every 3 to 5 days.
+
+All patients must be prescribed pyridoxine whilst receiving prothionamide.  The usual adult dose ranges from 50 to 100mg daily, up to 50mg per 250mg of prothionamide.
+
+PREPARATIONS
+Oral:	250mg tablets (unlicensed medicine).
+
+DRUG LEVEL MONITORING
+Not required.
+
+ADVERSE EFFECTS
+COMMON:
+Hepatic: Transient increases in LFTs.
+Gastrointestinal: Nausea, vomiting, diarrhoea, anorexia, excessive salivation, metallic taste, stomatitis, and abdominal pain.
+SERIOUS:
+Hepatic: Acute hepatitis (rare).
+Neurological (maybe increased in combination with cycloserine): Dizziness, encephalopathy, peripheral neuropathy.
+Ophthalmic: Optic Neuritis (rare).
+Psychiatric: Psychotic disturbances, depression.
+Metabolic: Gynaecomastia, hypoglycaemia, hypothyroidism.
+
+ADVERSE EFFECTS: MONITORING
+TFTs: 3 monthly (if being given in combination with PAS increase to monthly).
+Blood glucose: Regular monitoring in diabetic patients.
+Routine tests as per generic MDR-TB drug monitoring guidelines. (hyperlink)
+
+
+INTERACTONS
+Cycloserine: possible increased risk of neurotoxicity.
+Isoniazid: increased serum concentrations.
+P-aminosalicylic acid: increased risk of hypothyroidism, possible increased risk of hepatoxicity.
+Rifampicin: increased risk of hepatoxicity. 
+
+This information is not inclusive of all drug interactions. Please discuss with a pharmacist. 
+
+CONTRA-INDICATIONS & CAUTIONS
+Contraindications: 
+Hypersensitivity: To ethionamide or prothbionamide.
+Severe Liver Disease: Due to risk of further hepatotoxicity.
+Pregnancy.
+Porphyria.
+
+Cautions:
+Renal Disease: Reduce dose in severe renal impairment.
+Breast-feeding.
+
+LABORATORY INFORMATION
+Please find up to date information at www.assayfinder.com regarding individual providers of drug level monitoring tests. Click on the provider to discover contact details.  Turnaround time varies depending on the test and whether it is run locally or sent to an external lab.  By contacting laboratories in advance, turnaround time can significantly be reduced.
+
+
+
+
+PYRAZINAMIDE
+
+DOSAGE
+Adults (<50kg): 1.5g once a day (oral); or for DOT supervised regimen: 2g three times a week (oral).
+Adults (50kg+): 2g once a day (oral); or for DOT supervised regimen: 2.5g three times a week (oral).
+Children: 35mg/kg (max. 1.5g if <50kg; 2g if 50kg+) once a day (oral); or for DOT supervised regimen: 50mg/kg (max. 2g if <50kg; 2.5g of 50kg+) three times a week (oral). (Doses should be rounded up to facilitate administration of suitable volumes of liquid or an appropriate strength of tablet)
+Pyrazinamide may be taken with or without food.
+
+PREPARATIONS
+Oral:	500mg tablets.
+	Liquid (as a manufactured ‘special’ - unlicensed medicine).
+	Rifater tablets (rifampicin 120mg, isoniazid 50mg, pyrazinamide 300mg).
+Voractiv® tablets (rifampicin 150mg, isoniazid 75mg, pyrazinamide 400mg, ethambutol 275mg).
+
+DRUG LEVEL MONITORING
+Indications for monitoring:
+Known or suspected malabsorption.
+Poor treatment response.
+Target Level:	20 – 40mg/L(Peak).
+Timing of sample: 
+2 hours post dose.
+Repeat at 6 hours if suspect delayed.
+Frequency of Levels: 
+Drug levels need not be routinely measured.
+
+ADVERSE EFFECTS
+COMMON:
+Hyperuricaemia.
+Arthralgia.
+Gastrointestinal: Anorexia, nausea, vomiting.
+Hepatic: Transient increases in LFTs.
+Dermatological: Rash.
+SERIOUS:
+Haematological: Sideroblastic anaemia (rare), thrombocytopaenia (rare).
+Hepatotoxity.
+
+ADVERSE EFFECTS: MONITORING
+Routine tests as per generic MDR-TB drug monitoring guidelines. (hyperlink)
+
+INTERACTONS
+Probenecid: Pyrazinamide antagonises the effect of probenecid. 
+Sulfinpyrazone: Pyrazinamide antagonises the effect of sulfinpyrazone. 
+
+This information is not inclusive of all drug interactions. Please discuss with a pharmacist. 
+
+CONTRA-INDICATIONS & CAUTIONS
+Contraindications:
+Hypersensitivity: To pyrazinamide.
+Cautions: 
+Gout.
+Liver Disease.
+
+LABORATORY INFORMATION
+Please find up to date information at www.assayfinder.com regarding individual providers of drug level monitoring tests. Click on the provider to discover contact details.  Turnaround time varies depending on the test and whether it is run locally or sent to an external lab.  By contacting laboratories in advance, turnaround time can significantly be reduced.
+Sample Type: Serum.
+Volume Required: 2 ml.
+Sample Container: Plain (non SST).
+Container Type: Any.
+Availability: Office Hours.
+Turnaround Time: 7 Days.
+
+
+
+RIFABUTIN
+
+DOSAGE
+Adult: 5mg/kg once a day (oral). Usual dose is 300mg, although doses of up to 450mg are sometimes used.
+Children: 5mg/kg once a day (limited data).
+
+PREPARATIONS
+Oral:	150mg capsules.
+
+DRUG LEVEL MONITORING
+Indications for monitoring:
+Known or suspected malabsorption.
+Poor treatment response.
+Target Level:	0.3 – 0.9mg/L (Peak)
+Timing of sample: 
+3 hours post dose.
+Repeat at 7 hours if suspect delayed.
+Frequency of Levels: 
+Drug levels need not be routinely measured.
+
+ADVERSE EFFECTS
+COMMON:
+Reddish discolouration of urine, sweat, sputum, tears.
+Haematological: Neutropaenia.
+Gastrointestinal: Anorexia, nausea, vomiting, heartburn.
+Hepatic: Transient increases in LFTs.
+Opthalmic: Uveitis.
+Dermatological: Rash. 
+SERIOUS:
+Haematological: Anaemia, neutropaenia, thrombocytopaenia.
+
+ADVERSE EFFECTS: MONITORING
+Routine tests as per generic MDR-TB drug monitoring guidelines. (hyperlink)
+
+INTERACTONS
+Anti-arrhythmics: Accelerated metabolism of disopyramide.
+Anticoagulants: Accelerated metabolism of coumarins (e.g. warfarin).
+Anti-diabetics: Accelerated metabolism of tolbutamide and sulfonylureas (reduced effect).
+Antiepileptics: Reduced plasma concentration of carbamazepine and phenytoin.
+Antifungals: increased serum concentration of rifabutin with fluconazole, posaconazole, and voriconazole, and possibly itraconazole. Reduced serum concentrations of itraconazole, posaconazole and voriconazole. If benefit outweighs the risk, monitor antifungal serum concentrations (increase dose of voriconazole); and monitor for rifabutin adverse effects such as leukopaenia and uveitis.
+Antipsychotics: Possible reduced plasma concentration of aripiprazole.
+Antivirals: Please seek advice from an HIV physician before considering starting rifampicin in patients on anti-retrovirals due to the frequency of drug interactions: Increased serum concentration of rifabutin when given with: amprenavir, Fosamprenavir/ritonavir, Lopinavir/ritonavir, Ritonavir, and Tipranavir/ritonavir. Reduce dose of rifabutin. Consider alternative protease inhibitor to ritonavir.
+Atovaquone: Reduced plasma concentrations of both rifabutin and atovaquone.
+Contraceptives: Accelerated metabolism of oestrogens and progestogens (reduced contraceptive effect).
+Corticosteroids: Possible accelerated metabolism of corticosteroids (reduced effect).
+Hormone Replacement Therapy (HRT): Rifampicin would be expected to reduce the efficacy of HRT
+Macrolides: Increased risk of neutropaenia with azithromycin; increased plasma concentration of rifabutin when taken with clarithromycin and possibly erythromycin (reduce dose of rifabutin).
+P-aminosalicylic acid: Reduced absorption of rifamycins. Give 8-12 hours apart.
+Sirolimus: Reduced in plasma concentration of sirolimus.
+Tacrolimus: Reduced in plasma concentration of tacrolimus.
+
+This information is not inclusive of all drug interactions. Please discuss with a pharmacist. 
+
+CONTRA-INDICATIONS & CAUTIONS
+Contraindications:
+Hypersensitivity: To rifabutin or other rifamycins.
+Pregnancy.
+Breast-feeding.
+Cautions: 
+Liver Disease: Use cautiously and monitor LFTs.
+Renal Disease: Reduce dose in severe renal impairment.
+
+LABORATORY INFORMATION
+Please find up to date information at www.assayfinder.com regarding individual providers of drug level monitoring tests. Click on the provider to discover contact details.  Turnaround time varies depending on the test and whether it is run locally or sent to an external lab.  By contacting laboratories in advance, turnaround time can significantly be reduced.
+Sample Type: Serum.
+Volume Required: 2 ml.
+Sample Container: Plain (non SST).
+Container Type: Any.
+Availability: Office Hours.
+Turnaround Time: 7 Days.
+
+
+
+RIFAMPICIN
+
+DOSAGE
+Adults (<50kg): 450mg once a day (oral or intravenous); or for DOT supervised regimen: 600mg three times a week (oral).
+Adults (50kg+): 600mg once a day (oral or intravenous); or for DOT supervised regimen: 900mg three times a week (oral).
+Children: 15mg/kg (max. 450mg if <50kg; 600mg if 50kg+) once a day (oral or intravenous); or for DOT supervised regimen: 15mg/kg (max. 900mg) three times a week (oral).  (Doses should be rounded up to facilitate administration of suitable volumes of liquid or an appropriate strength of capsule).
+
+Rifampicin should be taken 30-60 minutes before food, or 2 hours after food.
+
+PREPARATIONS
+Oral:	150mg, 300mg capsules.
+	100mg/5mL syrup.
+Rifinah® 300/150 tablets (rifampicin 300mg, isoniazid 150mg).
+	Rifinah® 150/100 tablets (rifampicin 150mg, isoniazid 100mg).
+	Rifater tablets (rifampicin 120mg, isoniazid 50mg, pyrazinamide 300mg).
+Voractiv® tablets (rifampicin 150mg, isoniazid 75mg, pyrazinamide 400mg, ethambutol 275mg).
+Parenteral: 600mg powder for reconstitution.
+
+DRUG LEVEL MONITORING
+Indications for monitoring:
+Known or suspected malabsorption.
+Poor treatment response.
+Target Level:	8 – 24mg/L (Peak).
+Timing of sample: 
+2 hours post dose.
+Repeat at 6 hours if suspect delayed.	
+Frequency of Levels: 
+Drug levels need not be routinely measured.
+
+ADVERSE EFFECTS
+COMMON:
+Reddish discolouration of urine, sweat, sputum, tears.
+Gastrointestinal: Anorexia, nausea, vomiting, heartburn.
+Hepatic: Transient increases in LFTs.
+Flu-like syndrome.
+SERIOUS:
+Haematological: Agranulocytosis (rare), Haemolytic anaemia (rare, usually intermittent therapy), Thrombocytopaenia (rare, usually high-dose / intermittent therapy).
+Hepatic: Hepatotoxicity (rare).
+Renal: Nephrotoxicity (rare).
+
+ADVERSE EFFECTS: MONITORING
+Routine tests as per generic MDR-TB treatment monitoring guidelines (hyperlink).
+
+INTERACTONS
+Analgesics: Accelerated metabolism of opiates, resulting in reduced effect (e.g. alfentanyl, codeine, fentanyl, methadone, morphine and possibly oxycodone).
+Antacids: Reduced absorption of rifampicin.
+Anti-arrhythmics: Accelerated metabolism of disopyramide.
+Antibacterials: Reduced plasma concentrations of chloramphenicol, clarithromycin, dapsone, doxycycline, linezolid, trimethoprim.
+Anticoagulants: Reduced plasma concentration of apixaban, dabigatran and rivaroxaban; accelerated metabolism of coumarins (e.g. warfarin).
+Anti-diabetics: Accelerated metabolism of tolbutamide and sulfonylureas (reduced effect); reduced effect of linagliptan, netaglinide and repaglinide.
+Antiepileptics: Reduced plasma concentration of lamotrigine and phenytoin; phenobarbital possibly reduces plasma concentration of rifampicin.
+Antifungals: Accelerated metabolism of ketoconazole, fluconazole, itraconazole, posaconazole, terbinafine and voriconazole (reduced plasma concentrations; avoid concomitant use of rifampicin with itraconazole or voriconazole). Rifampicin initially increases then decreases caspofungin levels (consider increasing caspofungin dose).
+Antimalarials: Reduced plasma concentration of mefloquine (avoid use) and quinine.
+Antipsychotics: Accelerated metabolism of haloperidol and possibly aripiprazole and clozapine.
+Antivirals: Reduced plasma concentration of atazanavir, darunavir, fosamprenavir, lopinavir, nelfinavir, nevirapine, rilpivirine, saquinavir and telaprevir (avoid concomitant use), and possibly abacavir, boceprevir, ritonavir, and tipranavir. Rifampicin also reduces plasma concentration of efavirenz (increase dose of efavirenz), maraviroc and raltegravir (consider increasing doses).  Accelerated metabolism of indinavir (avoid concomitant use).
+Atovaquone: Reduced plasma concentrations of atovaquone; increased plasma concentration of rifampicin (avoid concomitant use).
+Bosentan: Reduced plasma concentration of bosentan (avoid concomitant use).
+Calcium-channel blockers: Accelerated metabolism of diltiazem, nifedipine, nimodipine and verapamil (significant reduction in plasma concentrations), and possibly isradipine and nicardipine.
+Ciclosporin: Accelerated metabolism of ciclosporin (reduced plasma concentration.
+Contraceptives: Accelerated metabolism of oestrogens and progestogens (reduced contraceptive effect). Avoid use of combined hormonal contraception (oral, patch or vaginal ring), progestogen-only contraception (pill and implant). Suitable alternatives include barrier methods, copper-bearing intrauterine system, or progestogen-only injectable (depot medroxyprogesterone acetate, norethisterone enantate, or levonorgestrel-releasing intrauterine system, which can be continued at the usual dose and dosing/replacement interval of 12 weeks, 8 weeks and 5 years, respectively). 
+Corticosteroids: Accelerated metabolism of corticosteroids (reduced effect).
+Diuretics: Reduced plasma concentration of eplerenone (avoid concomitant use).
+Hormone Replacement Therapy (HRT): Rifampicin would be expected to reduce the efficacy of HRT.
+Mycophenolate: Reduced plasma concentration of active metabolite of mycophenolate.
+P-aminosalicylic acid: Reduced absorption of rifamycins. Give 8-12 hours apart.
+Ranolazine: Reduced plasma concentration of ranolazine (avoid concomitant use).
+Sirolimus: Reduced in plasma concentration of sirolimus.
+Tacrolimus: Reduced in plasma concentration of tacrolimus.
+Tadalafil: Reduced plasma concentration of tadalafil (avoid concomitant use).
+Theophylline: Accelerated metabolism of theophylline (reduced plasma concentration).
+Ticagrelor: Reduced plasma concentration of ticagrelor.
+
+This information is not inclusive of all drug interactions. Please discuss with a pharmacist. 
+
+CONTRA-INDICATIONS & CAUTIONS
+Contraindications:
+Hypersensitivity: To rifampicin or other rifamycins.
+Liver Disease: Avoid if jaundiced.
+Drug Interactions: Avoid concomitant use with saquinavir or ritonavir.
+Cautions: 
+Liver Disease: Use cautiously and monitor LFTs; hyperbilirubinaemia may occur early in treatment in some patients due to competition between rifampicin and bilirubin for hepatic excretion.
+
+LABORATORY INFORMATION
+Please find up to date information at www.assayfinder.com regarding individual providers of drug level monitoring tests. Click on the provider to discover contact details.  Turnaround time varies depending on the test and whether it is run locally or sent to an external lab.  By contacting laboratories in advance, turnaround time can significantly be reduced.
+Sample Type: Serum.
+Volume Required: Please note that rifampicin binds to glass and plastics and therefore there may be a significant loss of drug if a small volume of serum is dispatched in a relatively large container. Please try and fill the container to 2/3 -3/4 its capacity).
+Sample Container: Plain glass or plastic (non SST).
+Container Type: Any.
+Availability: Office Hours.
+Turnaround Time: Telephoned same day if received 9am-3pm Mon-Fri if advanced warning given. Written confirmation report will be sent by 1st Class post.
+
+The sample must be heat-treated before dispatch if HIV positive.
+Please telephone at least one day in advance of the sample.
+
+
+
+STREPTOMYCIN
+
+Please note streptomycin is not licensed in the UK.  
+Streptomycin is not usually recommended for the treatment of MDRTB, as half of UK cases are resistant to streptomycin.
+
+PREPARATIONS
+Parenteral: 1g powder for reconstitution for injection (unlicensed medicine).
+
+DOSAGE
+For intramuscular administration only. There is experience of using streptomycin as an intravenous infusion, but the prescriber should ensure the streptomycin preparation used is suitable for intravenous administration.
+Streptomycin is usually given once daily for an initial period (usually at least two months), then the frequency may be reduced to three times weekly.  
+
+Adults: 15mg/kg daily (usual maximum 1g daily, but can be increased if necessary in large muscular adults).  After initial period: 15mg/kg three times per week.
+Age >59 years: 10mg/kg daily (maximum 750mg daily). After initial period: 15mg/kg three times per week.
+
+Renal failure: 12-15mg/kg TWO to THREE times a week.   Please discuss with a pharmacist. 
+
+Obesity: Use ideal body weight plus 40% of the excess weight in markedly obese patients. The adjusted dose is due to the decreased distribution of extracellular fluids in adipose tissues.
+Ideal body weight (men): 50 kg plus 2.3 kg/inch over 5 ft.
+Ideal body weight (women): 45 kg plus 2.3 kg/inch over 5 ft.
+Adjust dose and/or frequency according to serum streptomycin concentration (see below).
+
+Children: 15mg/kg daily (usual maximum 1g daily). After initial period: 15mg/kg three times per week.
+Adjust dose and/or frequency according to serum streptomycin concentration (see below).
+
+DRUG LEVEL MONITORING
+Indications for monitoring:
+Ensure therapeutic dose
+Ensure renal clearance, especially in at risk patients (e.g. renal impairment, elderly)
+
+Target Level:	<5mg/L (trough)
+25 – 35mg/L (peak)
+Timing of sample: 	
+Pre dose
+60mins after infusion ends
+Frequency of Levels: 
+Peak serum level in first week, repeat if poor response. 
+Trough serum levels weekly for 4 weeks, fortnightly for 4 weeks, then monthly if stable
+ADVERSE EFFECTS
+COMMON:
+Nephrotoxicity: Accumulation if renal impairment.
+Ototoxicity: Irreversible vestibulocochlear nerve damage. 
+Hypersensitivity skin reactions: Rashes, urticaria, erythroderma.
+Drug-induced eosinophillia (Usually subsides with intermittent dosing).
+SERIOUS:
+Endocrine: Hypocalcaemia, hypomagnesaemia, and hypokalaemia 
+Immunological: Anaphylaxis (uncommon).
+Neurological: Neuromuscular blockade and respiratory paralysis (more common in neuromuscular disease; usually dose-related and self-limiting).
+Audiological: Ototoxicity - auditory > vestibular (higher with prolonged use and older age).
+Renal: Nephrotoxicity (higher with prolonged use).
+
+ADVERSE EFFECTS: MONITORING
+Renal, auditory and vestibular monitoring is essential
+
+Renal function: Month 1 = twice weekly
+Month 2 = weekly
+Month 3: End of treatment with an aminoglycoside = 2 weekly
+Consider reducing to monthly after cessation of treatment with aminoglycoside, if renal function remains stable.
+Consider increasing frequency of monitoring if evidence of renal impairment.
+
+Loss of hearing usually occurs first and is detected by regular audiometric testing. Vertigo, loss of balance and auditory disturbances are also signs of ototoxicity. Ototoxicity on audiogram is defined as a 20 dB loss from baseline at any one test frequency or a 10 dB loss at any two adjacent test frequencies.
+
+We recommend that patients have baseline audiometry and then monthly reviews until treatment with aminoglycoside ceases.  A final audiometry review should be offered 2 months after the final dose.
+Routine tests as per generic MDR-TB drug monitoring guidelines. (hyperlink)
+
+INTERACTIONS
+Increased risk of nephrotoxicity if given with: capreomycin, cephalosporins, ciclosporin, colistimethate sodium, tacrolimus
+Increased risk of ototoxicity if given with: loop diuretics
+Increased risk of hypocalcaemia with bisphosphonates.
+
+This information is not inclusive of all drug interactions. Please discuss with a pharmacist. 
+
+CONTRA-INDICATIONS & CAUTIONS
+Contraindications: 
+Hypersensitivity: to streptomycin or other aminoglycosides
+Myasthenia Gravis: as aminoglycosides may impair neuromuscular transmission
+Pregnancy: Risk of vestibular or auditory nerve damage to infant if used in second or third trimester
+
+Cautions:
+Obese: Use ideal weight for height to calculate dose and monitor serum streptomycin levels closely
+Elderly: Nephrotoxicity and ototoxicity common in the elderly; monitor and reduce dose if necessary
+Renal Disease: Use with caution. Reduce the frequency of dosing and monitor serum concentrations.
+
+LABORATORY INFORMATION
+Please find up to date information at www.assayfinder.com regarding individual providers of drug level monitoring tests. Click on the provider to discover contact details.  Turnaround time varies depending on the test and whether it is run locally or sent to an external lab.  By contacting laboratories in advance, turnaround time can significantly be reduced.
+Sample Type: Serum.
+Volume Required: 2ml (min 0.1mL).
+Sample Container: Plain glass or plastic (non SST).
+Container Type: Any.
+Availability: Office Hours.
+Turnaround Time: Telephoned same day if received 9am-3pm Mon-Fri if advanced warning given. Written confirmation report will be sent by 1st Class post.
+
+The sample must be heat-treated before dispatch if HIV positive.
+
+
+
+THIOACETAZONE
+
+Please note thioacetazone is not licensed for the treatment of tuberculosis in the UK.
+Thioacetazone is not usually recommended for the treatment of MDRTB. When it is used, it should be counted as half a drug in a treatment regimen.
+
+DOSAGE
+Adults: 150mg once daily.
+Children: No information.
+
+PREPARATIONS
+Not currently available in the UK.
+
+DRUG LEVEL MONITORING
+Drug levels need not be routinely measured.
+
+ADVERSE EFFECTS
+COMMON:
+Dermatological: Rash (3%).
+Gastrointestinal: Nausea, vomiting, diarrhoea, anorexia & dyspepsia.
+Neurological: Giddiness (10%).
+SERIOUS:
+Haematological: Neutropaenia, anaemia, thrombocytopaenia; rarely: haemolytic anaemia, agranulocytosis, aplastic anaemia.
+Hepatic: Hepatotoxicity with jaundice and acute hepatic failure.
+Neurological: Dizziness, peripheral neuropathy, cerebral oedema (rare).
+
+ADVERSE EFFECTS: MONITORING
+Routine tests as per generic MDR-TB drug monitoring guidelines. (hyperlink)
+
+INTERACTIONS
+Streptomycin: Possible increased ototoxicty.
+
+This information is not inclusive of all drug interactions. Please discuss with a pharmacist. 
+
+CONTRA-INDICATIONS & CAUTIONS
+Contraindications:  
+HIV co-infection: Causes fatal skin rashes.
+Prothionamide resistance: Risk of cross-resistance
+
+NB: Thioacetazone is poorly tolerated by people of Asian or European origin.  It is surprisingly well tolerated in East African countries and in South America. Consequently Thioacetazone is not routinely used by any of the TB programs we know in Cambodia, Lao PDR, Vietnam and China.  Even in people of African or South American ethnicity, its use should be avoided in patients with HIV co-infection.
+LABORATORY INFORMATION
+Please find up to date information at www.assayfinder.com regarding individual providers of drug level monitoring tests. Click on the provider to discover contact details.  Turnaround time varies depending on the test and whether it is run locally or sent to an external lab.  By contacting laboratories in advance, turnaround time can significantly be reduced.
+References
+
+Authors:	 	Potter JL, Capstick TG
+Co-Authors: 	Ricketts WMR, Kon OM
+With thanks to: 	British Thoracic Society (BTS), BTS TB Special Advisory Group, Nuala Whitehead, Veronica White, Ehsan Hanzaree, Hasanin Khachi, Samantha Chance, Teddy Cheng, Richard Schilling, Mark Gilchrist,  Adele Gothard.  (1–94)
+
+1. 	Anon. A controlled comparison of thiacetazone (thioacetazone) plus isoniazid with PAS plus isoniazid in Hong Kong. Tubercle [Internet]. 1968 Sep [cited 2013 Sep 4];49(3):243–80. Available from: http://www.ncbi.nlm.nih.gov/pubmed/4179210
+2. 	Anon. Amikacin. Tuberculosis (Edinb). [Internet]. 2008 Mar [cited 2013 Aug 24];88(2):87–8. Available from: http://www.ncbi.nlm.nih.gov/pubmed/18486037
+3. 	Anon. Capreomycin. Tuberculosis (Edinb). [Internet]. 2008 Mar [cited 2013 Aug 24];88(2):89–91. Available from: http://www.ncbi.nlm.nih.gov/pubmed/18486038
+4. 	Anon. Clarithromycin. Tuberculosis (Edinb). [Internet]. 2008 Mar [cited 2013 Aug 24];88(2):92–5. Available from: http://www.ncbi.nlm.nih.gov/pubmed/18486039
+5. 	Anon. Clofazimine. Tuberculosis (Edinb). [Internet]. 2008 Mar [cited 2013 Aug 24];88(2):96–9. Available from: http://www.ncbi.nlm.nih.gov/pubmed/18486040
+6. 	Anon. Cycloserine. Tuberculosis (Edinb). [Internet]. 2008 Mar [cited 2013 Aug 24];88(2):100–1. Available from: http://www.ncbi.nlm.nih.gov/pubmed/18486041
+7. 	Anon. Ethambutol. Tuberculosis (Edinb). [Internet]. 2008 Mar [cited 2013 Aug 24];88(2):102–5. Available from: http://www.ncbi.nlm.nih.gov/pubmed/18486042
+8. 	Anon. Isoniazid. Tuberculosis (Edinb). [Internet]. 2008 Mar [cited 2013 Aug 24];88(2):112–6. Available from: http://www.ncbi.nlm.nih.gov/pubmed/18486045
+9. 	Anon. Levofloxacin. Tuberculosis (Edinb). [Internet]. 2008 Mar [cited 2013 Aug 24];88(2):119–21. Available from: http://www.ncbi.nlm.nih.gov/pubmed/18486047
+10. 	Anon. Linezolid. Tuberculosis (Edinb). [Internet]. 2008 Mar [cited 2013 Aug 24];88(2):122–5. Available from: http://www.ncbi.nlm.nih.gov/pubmed/18486048
+11. 	Anon. Moxifloxacin. Tuberculosis (Edinb). [Internet]. 2008 Mar [cited 2013 Aug 24];88(2):127–31. Available from: http://www.ncbi.nlm.nih.gov/pubmed/18486050
+12. 	Anon. Para-aminosalicylic acid. Tuberculosis (Edinb). [Internet]. 2008 Mar [cited 2013 Aug 24];88(2):137–8. Available from: http://www.ncbi.nlm.nih.gov/pubmed/18486053
+13. 	Anon. Prothionamide. Tuberculosis (Edinb). [Internet]. 2008 Mar [cited 2013 Aug 24];88(2):139–40. Available from: http://www.ncbi.nlm.nih.gov/pubmed/18486054
+14. 	Anon. Pyrazinamide. Tuberculosis (Edinb). [Internet]. 2008 Mar [cited 2013 Aug 24];88(2):141–4. Available from: http://www.ncbi.nlm.nih.gov/pubmed/18486055
+15. 	Anon. Rifabutin. Tuberculosis (Edinb). [Internet]. 2008 Mar [cited 2013 Aug 24];88(2):145–7. Available from: http://www.ncbi.nlm.nih.gov/pubmed/18486056
+16. 	Anon. Rifampin. Tuberculosis (Edinb). [Internet]. 2008 Mar [cited 2013 Aug 24];88(2):151–4. Available from: http://www.ncbi.nlm.nih.gov/pubmed/18486058
+17. 	Anon. Streptomycin. Tuberculosis (Edinb). [Internet]. 2008 Mar [cited 2013 Aug 24];88(2):162–3. Available from: http://www.ncbi.nlm.nih.gov/pubmed/18486061
+18. 	Anon. TMC-207. Tuberculosis (Edinb). [Internet]. 2008 Mar [cited 2013 Aug 24];88(2):168–9. Available from: http://www.ncbi.nlm.nih.gov/pubmed/18486063
+19. 	Ashley, C and Currie A, editor. The Renal Drug Handbook. 3rd ed. Radcliffe Medical Press, Oxford; 2009. 
+20. 	Auclair B, Nix DE, Adam RD, Gordon T, Peloquin CA, James GT. Pharmacokinetics of Ethionamide Administered under Fasting Conditions or with Orange Juice, Food, or Antacids. Antimicrob. Agents Chemother. 2001;45:810–4. 
+21. 	Banerjee S, Narayanan M, Gould K. Monitoring aminoglycoside level. BMJ [Internet]. 2012 Jan [cited 2013 Aug 24];345:e6354. Available from: http://www.ncbi.nlm.nih.gov/pubmed/23044986
+22. 	Black HR, Griffith RS, Peabody AM. Absorption, excretion and metabolism of capreomycin in normal and diseased states. Ann. N. Y. Acad. Sci. [Internet]. 1966 Apr 20 [cited 2013 Aug 19];135(2):974–82. Available from: http://www.ncbi.nlm.nih.gov/pubmed/5220250
+23. 	Bolhuis MS, van Altena R, Uges DRA, van der Werf TS, Kosterink JGW, Alffenaar J-WC. Clarithromycin significantly increases linezolid serum concentrations. Antimicrob. Agents Chemother. [Internet]. 2010 Dec [cited 2013 Aug 24];54(12):5418–9. Available from: http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2981294&tool=pmcentrez&rendertype=abstract
+24. 	Caminero JA. Guidelines for Clinical and Operational Management of Drug-Resistant Tuberculosis 2013. Int. Union Against Tuberc. Lung Dis. International Union Against Tuberculosis And Lung Disease; 2013; 
+25. 	Chambers HF, Turner J, Schecter GF, Kawamura M, Hopewell PC. Imipenem for treatment of tuberculosis in mice and humans. Antimicrob. Agents Chemother. [Internet]. 2005 Jul [cited 2013 Aug 24];49(7):2816–21. Available from: http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1168716&tool=pmcentrez&rendertype=abstract
+26. 	Chaulet P, Raviglione M, Bustreo F. Epidemiology, control and treatment of multidrug-resistant tuberculosis. Drugs [Internet]. 1996 Jan [cited 2013 Aug 19];52 Suppl 2:103–7; discussion 107–8. Available from: http://www.ncbi.nlm.nih.gov/pubmed/8869846
+27. 	Choudhri SH, Harris L, Butany JW, Keystone JS. Clofazimine induced cardiotoxicity--a case report. Lepr. Rev. [Internet]. 1995 Mar [cited 2013 Nov 6];66(1):63–8. Available from: http://www.ncbi.nlm.nih.gov/pubmed/7731343
+28. 	Cox H, Ford N. Linezolid for the treatment of complicated drug-resistant tuberculosis: a systematic review and meta-analysis. Int. J. Tuberc. Lung Dis. [Internet]. 2012 Apr [cited 2013 Aug 24];16(4):447–54. Available from: http://www.ncbi.nlm.nih.gov/pubmed/22325685
+29. 	Dauby N, Muylle I, Mouchet F, Sergysels R, Payen M-C. Meropenem/clavulanate and linezolid treatment for extensively drug-resistant tuberculosis. Pediatr. Infect. Dis. J. [Internet]. 2011 Sep [cited 2013 Aug 24];30(9):812–3. Available from: http://www.ncbi.nlm.nih.gov/pubmed/21378593
+30. 	De Lorenzo S, Alffenaar JW, Sotgiu G, Centis R, D’Ambrosio L, Tiberi S, et al. Efficacy and safety of meropenem-clavulanate added to linezolid-containing regimens in the treatment of MDR-/XDR-TB. Eur. Respir. J. [Internet]. 2013 Jun [cited 2013 Aug 19];41(6):1386–92. Available from: http://www.ncbi.nlm.nih.gov/pubmed/22997218
+31. 	Devine B. Gentamicin therapy. Drug Intell Clin Pharm. 1974;8:650–5. 
+32. 	Dey T, Brigden G, Cox H, Shubber Z, Cooke G, Ford N. Outcomes of clofazimine for the treatment of drug-resistant tuberculosis: a systematic review and meta-analysis. J. Antimicrob. Chemother. [Internet]. 2013 Feb [cited 2013 Sep 4];68(2):284–93. Available from: http://www.ncbi.nlm.nih.gov/pubmed/23054996
+33. 	Dey T, Brigden G, Cox H, Shubber Z, Cooke G, Ford N. Outcomes of clofazimine for the treatment of drug-resistant tuberculosis: a systematic review and meta-analysis. J. Antimicrob. Chemother. [Internet]. 2013 Feb [cited 2013 Nov 6];68(2):284–93. Available from: http://www.ncbi.nlm.nih.gov/pubmed/23054996
+34. 	Diacon AH, Donald PR, Pym A, Grobusch M, Patientia RF, Mahanyele R, et al. Randomized pilot trial of eight weeks of bedaquiline (TMC207) treatment for multidrug-resistant tuberculosis: long-term outcome, tolerability, and effect on emergence of drug resistance. Antimicrob. Agents Chemother. [Internet]. 2012 Jun [cited 2013 Sep 4];56(6):3271–6. Available from: http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3370813&tool=pmcentrez&rendertype=abstract
+35. 	Diacon AH, Dawson R, von Groote-Bidlingmaier F, Symons G, Venter A, Donald PR, et al. 14-day bactericidal activity of PA-824, bedaquiline, pyrazinamide, and moxifloxacin combinations: a randomised trial. Lancet [Internet]. 2012 Sep 15 [cited 2013 Sep 4];380(9846):986–93. Available from: http://www.ncbi.nlm.nih.gov/pubmed/22828481
+36. 	Diacon AH, Pym A, Grobusch M, Patientia R, Rustomjee R, Page-Shipp L, et al. The diarylquinoline TMC207 for multidrug-resistant tuberculosis. N. Engl. J. Med. [Internet]. 2009 Jun 4 [cited 2013 Aug 18];360(23):2397–405. Available from: http://www.ncbi.nlm.nih.gov/pubmed/19494215
+37. 	Donald PR, Sirgel FA, Venter A, Parkin DP, Van de Wal BW, Barendse A, et al. Early bactericidal activity of amoxicillin in combination with clavulanic acid in patients with sputum smear-positive pulmonary tuberculosis. Scand. J. Infect. Dis. [Internet]. 2001 Jan [cited 2013 Aug 24];33(6):466–9. Available from: http://www.ncbi.nlm.nih.gov/pubmed/11450868
+38. 	Dutta BS, Hassan G, Waseem Q, Saheer S, Singh A. Ethionamide-induced hypothyroidism. Int. J. Tuberc. Lung Dis. [Internet]. 2012 Jan [cited 2013 Aug 24];16(1):141. Available from: http://www.ncbi.nlm.nih.gov/pubmed/22236862
+39. 	Goh TL, Towns CR, Jones KL, Freeman JT, Wong CS. Extensively drug-resistant tuberculosis: New Zealand’s first case and the challenges of management in a low-prevalence country. Med. J. Aust. [Internet]. 2011 Jun 6 [cited 2013 Aug 24];194(11):602–4. Available from: http://www.ncbi.nlm.nih.gov/pubmed/21644877
+40. 	Gonzalo X, Drobniewski F. Is there a place for β-lactams in the treatment of multidrug-resistant/extensively drug-resistant tuberculosis? Synergy between meropenem and amoxicillin/clavulanate. J. Antimicrob. Chemother. [Internet]. 2013 Feb [cited 2013 Aug 16];68(2):366–9. Available from: http://www.ncbi.nlm.nih.gov/pubmed/23070734
+41. 	Hoc A, Management A, Ototoxic R, Therapy D. Audiologic Management of Individuals Receiving Cochleotoxic Drug Therapy. 1994 Mar [cited 2013 Sep 4]; Available from: http://www.asha.org/docs/html/GL1994-00003.html
+42. 	Hutchison TA SD& AM. Drugdex System Internet version Micromedex Inc. Greenwood Village, Colorado. 
+43. 	Janssen. Anti-Infective Drugs Advisory Committee Meeting Briefing Document: TMC207 (bedaquiline): Treatment of Patients with MDR-TB. NDA. 2012;204–384. 
+44. 	Janssen. Compassionate Use Program of TMC207 in Patients with Extensively Drug Resistant (XDR) or Pre-XDR Mycobacterium tuberculosis (MTB) Pulmonary Infection. Guidel. physicians Pharm. 2012; 
+45. 	Janssen. SirturoTM U.S. Food and Drug Administration bedaquiline package insert [Internet]. 2012. Available from: http://www.who.int/tb/challenges/mdr/bedaquiline/en/index.html
+46. 	Katiyar SK, Bihari S, Prakash S, Mamtani M, Kulkarni H. A randomised controlled trial of high-dose isoniazid adjuvant therapy for multidrug-resistant tuberculosis. Int. J. Tuberc. Lung Dis. [Internet]. 2008 Feb [cited 2013 Sep 4];12(2):139–45. Available from: http://www.ncbi.nlm.nih.gov/pubmed/18230245
+47. 	Lee M, Lee J, Carroll MW, Choi H, Min S, Song T, et al. Linezolid for treatment of chronic extensively drug-resistant tuberculosis. N. Engl. J. Med. [Internet]. 2012 Oct 18 [cited 2013 Aug 24];367(16):1508–18. Available from: http://www.ncbi.nlm.nih.gov/pubmed/23075177
+48. 	Lehmann CR, Garrett LE, Winn RE, Springberg PD, Vicks S, Porter DK, et al. Capreomycin kinetics in renal impairment and clearance by hemodialysis. Am. Rev. Respir. Dis. [Internet]. 1988 Nov [cited 2013 Aug 19];138(5):1312–3. Available from: http://www.ncbi.nlm.nih.gov/pubmed/2462388
+49. 	Migliori GB, Eker B, Richardson MD, Sotgiu G, Zellweger J-P, Skrahina A, et al. A retrospective TBNET assessment of linezolid safety, tolerability and efficacy in multidrug-resistant tuberculosis. Eur. Respir. J. [Internet]. 2009 Aug [cited 2013 Aug 24];34(2):387–93. Available from: http://www.ncbi.nlm.nih.gov/pubmed/19282348
+50. 	Milburn H, Ashman N, Davies P, Doffman S, Drobniewski F, Khoo S, et al. Guidelines for the prevention and management of Mycobacterium tuberculosis infection and disease in adult patients with chronic kidney disease. Thorax [Internet]. 2010 Jun [cited 2013 Aug 24];65(6):557–70. Available from: http://www.ncbi.nlm.nih.gov/pubmed/20522863
+51. 	National Collaborating Centre for Chronic Conditions (UK); Centre for Clinical Practice at NICE (UK. Tuberculosis: Clinical Diagnosis and Management of Tuberculosis, and Measures for Its Prevention and Control. 2011. 
+52. 	Payen MC, De Wit S, Martin C, Sergysels R, Muylle I, Van Laethem Y, et al. Clinical use of the meropenem-clavulanate combination for extensively drug-resistant tuberculosis. Int. J. Tuberc. Lung Dis. [Internet]. 2012 Apr [cited 2013 Sep 4];16(4):558–60. Available from: http://www.ncbi.nlm.nih.gov/pubmed/22325421
+53. 	Peloquin CA. Pharmacology of the antimycobacterial drugs. Med. Clin. North Am. [Internet]. 1993 Nov [cited 2013 Aug 19];77(6):1253–62. Available from: http://www.ncbi.nlm.nih.gov/pubmed/8231410
+54. 	Peloquin CA, Berning SE, Huitt GA, Childs JM, Singleton MD, James GT. Once-daily and twice-daily dosing of p-aminosalicylic acid granules. Am. J. Respir. Crit. Care Med. [Internet]. 1999 Mar [cited 2013 Aug 24];159(3):932–4. Available from: http://www.ncbi.nlm.nih.gov/pubmed/10051275
+55. 	Peloquin CA. Therapeutic drug monitoring in the treatment of tuberculosis. Drugs [Internet]. 2002 Jan [cited 2013 Sep 4];62(15):2169–83. Available from: http://www.ncbi.nlm.nih.gov/pubmed/12381217
+56. 	Peloquin CA, Berning SE, Nitta AT, Simone PM, Goble M, Huitt GA, et al. Aminoglycoside toxicity: daily versus thrice-weekly dosing for treatment of mycobacterial diseases. Clin. Infect. Dis. [Internet]. 2004 Jun 1 [cited 2013 Aug 19];38(11):1538–44. Available from: http://www.ncbi.nlm.nih.gov/pubmed/15156439
+57. 	Peloquin CA, Berning SE, Nitta AT, Simone PM, Goble M, Huitt GA, et al. Aminoglycoside toxicity: daily versus thrice-weekly dosing for treatment of mycobacterial diseases. Clin. Infect. Dis. [Internet]. 2004 Jun 1 [cited 2013 Aug 19];38(11):1538–44. Available from: http://www.ncbi.nlm.nih.gov/pubmed/15156439
+58. 	Pharmaceuticals K. Personal communication: Capreomycin and intravenous administration. 
+59. 	Pranger AD, van Altena R, Aarnoutse RE, van Soolingen D, Uges DRA, Kosterink JGW, et al. Evaluation of moxifloxacin for the treatment of tuberculosis: 3 years of experience. Eur. Respir. J. [Internet]. 2011 Oct [cited 2013 Aug 24];38(4):888–94. Available from: http://www.ncbi.nlm.nih.gov/pubmed/21310881
+60. 	Prasad R, Verma SK, Sahai S, Kumar S, Jain A. Efficacy and safety of kanamycin, ethionamide, PAS and cycloserine in multidrug-resistant pulmonary tuberculosis patients. Indian J. Chest Dis. Allied Sci. [Internet]. [cited 2013 Aug 24];48(3):183–6. Available from: http://www.ncbi.nlm.nih.gov/pubmed/18610675
+61. 	Rose PC, Hallbauer UM, Seddon JA, Hesseling AC, Schaaf HS. Linezolid-containing regimens for the treatment of drug-resistant tuberculosis in South African children. Int. J. Tuberc. Lung Dis. [Internet]. 2012 Dec [cited 2013 Aug 24];16(12):1588–93. Available from: http://www.ncbi.nlm.nih.gov/pubmed/23032215
+62. 	Ruslami R, Ganiem AR, Dian S, Apriani L, Achmad TH, van der Ven AJ, et al. Intensified regimen containing rifampicin and moxifloxacin for tuberculous meningitis: an open-label, randomised controlled phase 2 trial. Lancet Infect. Dis. [Internet]. 2013 Jan [cited 2013 Sep 4];13(1):27–35. Available from: http://www.ncbi.nlm.nih.gov/pubmed/23103177
+63. 	Rustomjee R, Diacon AH, Allen J, Venter A, Reddy C, Patientia RF, et al. Early bactericidal activity and pharmacokinetics of the diarylquinoline TMC207 in treatment of pulmonary tuberculosis. Antimicrob. Agents Chemother. [Internet]. 2008 Aug [cited 2013 Sep 4];52(8):2831–5. Available from: http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2493110&tool=pmcentrez&rendertype=abstract
+64. 	Schaaf HS, Marais BJ. Management of multidrug-resistant tuberculosis in children: a survival guide for paediatricians. Paediatr. Respir. Rev. [Internet]. 2011 Mar [cited 2013 Aug 24];12(1):31–8. Available from: http://www.ncbi.nlm.nih.gov/pubmed/21172673
+65. 	Schilling R. Appropriate monitoring for prolonged QT. Unpubl. Commun. 2013; 
+66. 	Sotgiu G, Centis R, D’Ambrosio L, Alffenaar J-WC, Anger HA, Caminero JA, et al. Efficacy, safety and tolerability of linezolid containing regimens in treating MDR-TB and XDR-TB: systematic review and meta-analysis. Eur. Respir. J. [Internet]. 2012 Dec [cited 2013 Aug 24];40(6):1430–42. Available from: http://www.ncbi.nlm.nih.gov/pubmed/22496332
+67. 	Soumakis SA, Berg D, Harris HW. Hypothyroidism in a Patient Receiving Treatment for Multidrug‐Resistant Tuberculosis. Clin. Infect. Dis. [Internet]. 1998 Oct [cited 2013 Aug 24];27(4):910–1. Available from: http://cid.oxfordjournals.org/lookup/doi/10.1086/517171
+68. 	Sturdy A, Goodman A, José RJ, Loyse A, O’Donoghue M, Kon OM, et al. Multidrug-resistant tuberculosis (MDR-TB) treatment in the UK: a study of injectable use and toxicity in practice. J. Antimicrob. Chemother. [Internet]. 2011 Aug [cited 2013 Sep 1];66(8):1815–20. Available from: http://www.ncbi.nlm.nih.gov/pubmed/21642291
+69. 	Sturdy A, Goodman A, José RJ, Loyse A, O’Donoghue M, Kon OM, et al. Multidrug-resistant tuberculosis (MDR-TB) treatment in the UK: a study of injectable use and toxicity in practice. J. Antimicrob. Chemother. [Internet]. 2011 Aug [cited 2013 Aug 24];66(8):1815–20. Available from: http://www.ncbi.nlm.nih.gov/pubmed/21642291
+70. 	Sturdy A, Goodman A, José RJ, Loyse A, O’Donoghue M, Kon OM, et al. Multidrug-resistant tuberculosis (MDR-TB) treatment in the UK: a study of injectable use and toxicity in practice. J. Antimicrob. Chemother. [Internet]. 2011 Aug [cited 2013 Aug 24];66(8):1815–20. Available from: http://www.ncbi.nlm.nih.gov/pubmed/21642291
+71. 	Sweetman S M, editor. The Complete Drug Reference, online edition. Pharm. Press. London. The Pharmaceutical Press, London; 
+72. 	Thee S, Seifart HI, Rosenkranz B, Hesseling AC, Magdorf K, Donald PR, et al. Pharmacokinetics of ethionamide in children. Antimicrob. Agents Chemother. [Internet]. 2011 Oct [cited 2013 Aug 24];55(10):4594–600. Available from: http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3186973&tool=pmcentrez&rendertype=abstract
+73. 	Thee S, Zöllner EW, Willemse M, Hesseling AC, Magdorf K, Schaaf HS. Abnormal thyroid function tests in children on ethionamide treatment. Int. J. Tuberc. Lung Dis. [Internet]. 2011 Sep [cited 2013 Sep 4];15(9):1191–3, i. Available from: http://www.ncbi.nlm.nih.gov/pubmed/21943844
+74. 	Wyeth. Dear Healthcare Professional Letter [Internet]. 2005. Available from: http://www.fda.gov/downloads/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/UCM164879.pdf
+75. 	Xu H-B, Jiang R-H, Xiao H-P. Clofazimine in the treatment of multidrug-resistant tuberculosis. Clin. Microbiol. Infect. [Internet]. 2012 Nov [cited 2013 Aug 24];18(11):1104–10. Available from: http://www.ncbi.nlm.nih.gov/pubmed/22192631
+76. 	Zhu M, Burman WJ, Jaresko GS, Berning SE, Jelliffe RW, Peloquin CA. Population pharmacokinetics of intravenous and intramuscular streptomycin in patients with tuberculosis. Pharmacotherapy [Internet]. 2001 Sep [cited 2013 Sep 4];21(9):1037–45. Available from: http://www.ncbi.nlm.nih.gov/pubmed/11560193
+77. 	AHFS Drug Information. Am. Soc. Heal. Pharm. Bathesda, USA. 2011. 
+78. 	British National Formulary [Internet]. The British Medical Association and the Royal Pharmaceutical Society; 2013. Available from: www.bnf.org
+79. 	British National Formulary For Children [Internet]. British Medical Association, Royal Pharmaceutical Society, Royal College of Paediatrics and Child Health, and Neonatal and Paediatric Pharmacists Group; 2013. Available from: www.bnfc.org
+80. 	Drug Interactions with Hormonal Contraception. Faculty of Sexual & Reproductive Healthcare Clinical Guidance; 2011. 
+81. 	Drug-Resistant Tuberculosis: A Survival Guide for Clinicians. 2nd ed. Curry International Tuberculosis Center and California Department of Public Health; 2011. p. 1–263. 
+82. 	Guidance for National Tuberculosis Programmes on the management of tuberculosis in children. World Heal. Organ. Geneva; 2006;WHO/HTM/ TB/2006.371, WHO/FCH/CAH/2006.7. 
+83. 	Guidance for national tuberculosis programmes on the management of tuberculosis in children. Chapter 2: anti-tuberculosis treatment in children. Int. J. Tuberc. Lung Dis. [Internet]. 2006 Nov [cited 2013 Sep 4];10(11):1205–11. Available from: http://www.ncbi.nlm.nih.gov/pubmed/17131777
+84. 	Guidelines for the programmatic management of drug-resistant tuberculosis: 2011 Update. World Heal. Organ. 2011;WHO/HTM/TB/2008.402. 
+85. 	Interim guidance on the use of bedaquiline to treat MDR-TB. World Heal. Organ. 2012;WHO/HTM/TB/2013.6. 
+86. 	Ototoxicity Monitoring. Am. Acad. Audiol. [Internet]. 2009; Available from: http://www.audiology.org/resources/documentlibrary/Documents/OtoMonGuidelines.pdf
+87. 	Rapid advice: Treatment of Tuberculosis in Children. World Heal. Organ. 2010;WHO/HTM/TB/2010.13. 
+88. 	STATEMENT ON THE POSITION OF THE STOP TB DEPARTMENT WITH REGARD TO THIOACETAZONE + ISONIAZID WITHIN CONTEXT OF THE WHO MODEL LIST OF ESSENTIAL MEDICINES [Internet]. World Heal. Organ. 2004. p. 1–9. Available from: http://archives.who.int/eml/expcom/expcom14/thioacetazone/thioacetazoneisoniazid_STB_statement_annex_4Nov04.pdf
+89. 	Statement on the position of the stop TB department with regard to thioacetazone + isoniazid within context of the who model list of essential medicines. [Internet]. World Heal. Organ. 2004. Available from: http://archives.who.int/eml/expcom/expcom14/thioacetazone/thioacetazoneisoniazid_STB_statement_annex_4Nov04.pdf 
+90. 	Summary of Product Characteristics. [Internet]. Electron. Med. Compend. Datapharm Commun. Ltd. Available from: http://emc.medicines.org.uk
+91. 	The Use of Bedaquiline in the Treatment of Multidrug-Resistant Tuberculosis: Interim Policy Guidance. Geneva World Heal. Organ. [Internet]. 2013; Available from: http://www.ncbi.nlm.nih.gov/books/NBK154134/
+92. 	Treatment of Tuberculosis: guidelines 4th edition. Geneva, Switz. 2009;WHO/HTM/TB/2009.4. 
+93. 	Treatment of Tuberculosis: Thioacetazone [Internet]. People’s Friendsh. Univ. Russ. Fac. Med. Available from: http://main.rudn.ru/_new/russian/win/tub1/tubeng2012/05_treat/05_1_7_treat_tiacet.htm
+94. 	U.S. Physician Prescribing Information [Internet]. PfizerTrecator®. 2007 [cited 2013 Aug 28]. p. 1–8. Available from: http://labeling.pfizer.com/showlabeling.aspx?id=473 
+
