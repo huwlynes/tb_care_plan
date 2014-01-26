@@ -1,0 +1,26 @@
+/* clear floated elements */
+.clr {clear:both; height:1px; font-size:1px; line-height:1px;}
+
+@media print {
+    form {
+        display: none;
+    }
+}
+
+form {
+    float: left;
+    margin-right: 20px;
+}
+
+select {
+    display: block;
+    font-size: 20px;
+}
+
+button {
+    font-size: 20px;
+}
+
+table {
+    margin: 0 auto;
+}
