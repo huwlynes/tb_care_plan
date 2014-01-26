@@ -5,6 +5,10 @@
     #instructions {
         display: none;
     }
+
+    .monograph {
+        page-break-before: always;
+    }
 }
 
 form {
