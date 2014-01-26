@@ -2,7 +2,7 @@
 .clr {clear:both; height:1px; font-size:1px; line-height:1px;}
 
 @media print {
-    form {
+    #instructions {
         display: none;
     }
 }
